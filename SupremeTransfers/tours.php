@@ -54,18 +54,18 @@
 				<div class="container main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				            <li><a href="index.html">Inicio</a></li>
-				          <li><a href="about.html">Acerca de</a></li>
-						  <li><a href="transfers.html">Traslados</a></li>
-						  <li><a href="elements.html">Tours</a></li>	
-				          <li><a href="destinations.html">Destinos</a></li>
-				          <li><a href="agencias.html">Agencias</a></li>
-				          <li><a href="blog-single.html">Blog</a></li>	          					          		          
-				          <li><a href="contact.html">Contact</a></li>
+				            <li><a href="index.php">Inicio</a></li>
+				          <li><a href="about.php">Acerca de</a></li>
+									<li><a href="transfers.php">Traslados</a></li>
+									<li><a href="tours.php">Tours</a></li>	
+				          <li><a href="destinations.php">Destinos</a></li>
+				          <li><a href="agencias.php">Agencias</a></li>
+				          <li><a href="blog-single.php">Blog</a></li>	          					          		          
+				          <li><a href="contact.php">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
