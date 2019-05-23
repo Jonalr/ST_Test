@@ -62,7 +62,7 @@
 				            <li><a href="index.html">Inicio</a></li>
 				          <li><a href="about.html">Acerca de</a></li>
 						  <li><a href="transfers.html">Traslados</a></li>
-						  <li><a href="elements.html">Tours</a></li>	
+						  <li><a href="tours.html">Tours</a></li>	
 				          <li><a href="destinations.html">Destinos</a></li>
 				          <li><a href="agencias.html">Agencias</a></li>
 				          <li><a href="blog-single.html">Blog</a></li>	          					          		          
