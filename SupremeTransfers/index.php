@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -37,14 +38,14 @@
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="#">contact@traveluum.com</a></li>
+			  					<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
 			  					<li><a href="#">+52(998) 217 2958 </a></li>
 			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
+								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
 								
 							</div>
 			  			</div>
@@ -60,26 +61,11 @@
 				        <ul class="nav-menu">
 				          <li><a href="index.html">Inicio</a></li>
 				          <li><a href="about.html">Acerca de</a></li>
-				          <li><a href="transfers.html">Traslados</a></li>
+						  <li><a href="transfers.html">Traslados</a></li>
+						  <li><a href="elements.html">Tours</a></li>	
 				          <li><a href="destinations.html">Destinos</a></li>
 				          <li><a href="agencias.html">Agencias</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				             
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
+				          <li><a href="blog-single.html">Blog</a></li>	          					          		          
 				          <li><a href="contact.html">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  

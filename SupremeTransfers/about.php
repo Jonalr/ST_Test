@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php ?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -37,16 +38,15 @@
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="#">Visit Us</a></li>
-			  					<li><a href="#">Buy Tickets</a></li>
+								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
+							
 			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-dribbble"></i></a>
-								<a href="#"><i class="fa fa-behance"></i></a>
+								
 							</div>
 			  			</div>
 			  		</div>			  					
@@ -59,28 +59,13 @@
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="packages.html">Packages</a></li>
-				          <li><a href="hotels.html">Hotels</a></li>
-				          <li><a href="insurance.html">Insurence</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
+				            <li><a href="index.html">Inicio</a></li>
+				          <li><a href="about.html">Acerca de</a></li>
+						  <li><a href="transfers.html">Traslados</a></li>
+						  <li><a href="elements.html">Tours</a></li>	
+				          <li><a href="destinations.html">Destinos</a></li>
+				          <li><a href="agencias.html">Agencias</a></li>
+				          <li><a href="blog-single.html">Blog</a></li>	          					          		          
 				          <li><a href="contact.html">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  
@@ -125,7 +110,7 @@
 			<!-- End about-info Area -->
 		    
 			<!-- Start price Area -->
-			<section class="price-area section-gap">
+			<!--<section class="price-area section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
@@ -230,8 +215,8 @@
 							</div>
 						</div>												
 					</div>
-				</div>	
-			</section>
+				</div>
+			</section>	-->
 			<!-- End price Area -->
 
 

@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -37,16 +38,15 @@
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="#">Visit Us</a></li>
-			  					<li><a href="#">Buy Tickets</a></li>
+								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
+							
 			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-dribbble"></i></a>
-								<a href="#"><i class="fa fa-behance"></i></a>
+							
 							</div>
 			  			</div>
 			  		</div>			  					
@@ -59,28 +59,13 @@
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="packages.html">Packages</a></li>
-				          <li><a href="hotels.html">Hotels</a></li>
-				          <li><a href="insurance.html">Insurence</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
+				        	<li><a href="index.html">Inicio</a></li>
+				          <li><a href="about.html">Acerca de</a></li>
+						  <li><a href="transfers.html">Traslados</a></li>
+						  <li><a href="elements.html">Tours</a></li>	
+				          <li><a href="destinations.html">Destinos</a></li>
+				          <li><a href="agencias.html">Agencias</a></li>
+				          <li><a href="blog-single.html">Blog</a></li>	          					          		          
 				          <li><a href="contact.html">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  
@@ -95,14 +80,79 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Hotels				
+								Tour Packages				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="hotels.html"> Hotels</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="packages.html"> Tour Packages</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
+
+			<!-- Start hot-deal Area -->
+			<section class="hot-deal-area section-gap">
+				<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">Today’s Hot Deals</h1>
+		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to.</p>
+		                    </div>
+		                </div>
+		            </div>						
+					<div class="row justify-content-center">
+						<div class="col-lg-10 active-hot-deal-carusel">
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/hot-deal.jpg" alt="">
+								</div>
+								<div class="price-detials">
+									<a href="#" class="price-btn">Starting From <span>$250</span></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Ancient Architecture</h4>
+									<p class="text-white">
+										Cairo, Egypt
+									</p>
+								</div>								
+							</div>
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/hot-deal.jpg" alt="">
+								</div>
+								<div class="price-detials">
+									<a href="#" class="price-btn">Starting From <span>$250</span></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Ancient Architecture</h4>
+									<p class="text-white">
+										Cairo, Egypt
+									</p>
+								</div>								
+							</div>
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/hot-deal.jpg" alt="">
+								</div>
+								<div class="price-detials">
+									<a href="#" class="price-btn">Starting From <span>$250</span></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Ancient Architecture</h4>
+									<p class="text-white">
+										Cairo, Egypt
+									</p>
+								</div>								
+							</div>														
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End hot-deal Area -->
+			
 
 			<!-- Start destinations Area -->
 			<section class="destinations-area section-gap">
@@ -119,49 +169,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d1.jpg" alt="">
+									<img src="img/packages/d1.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -171,49 +204,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d2.jpg" alt="">
+									<img src="img/packages/d2.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -223,49 +239,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d3.jpg" alt="">
+									<img src="img/packages/d3.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -275,49 +274,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d4.jpg" alt="">
+									<img src="img/packages/d4.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -327,49 +309,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d5.jpg" alt="">
+									<img src="img/packages/d5.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -379,49 +344,32 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/hotels/d6.jpg" alt="">
+									<img src="img/packages/d6.jpg" alt="">
 								</div>
 								<div class="details">
-									<h4 class="d-flex justify-content-between">
-										<span>Hilton Star Hotel</span>                              	
-										<div class="star">
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star checked"></span>
-											<span class="fa fa-star"></span>				
-										</div>	
-									</h4>
+									<h4>Holiday Sea beach Blue Ocean</h4>
 									<p>
-										View on map   |   49 Reviews
+										United staes of America
 									</p>
 									<ul class="package-list">
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Swimming pool</span>
-											<span>Yes</span>
+											<span>Duration</span>
+											<span>06 days and 7 nights</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Gymnesium</span>
-											<span>No</span>
+											<span>Date</span>
+											<span>18.04.2018</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Wi-fi</span>
-											<span>Yes</span>
+											<span>Airport</span>
+											<span>Changi</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Room Service</span>
-											<span>No</span>
+											<span>Extras</span>
+											<span>All Inclusive</span>
 										</li>
 										<li class="d-flex justify-content-between align-items-center">
-											<span>Air Condition</span>
-											<span>Yes</span>
-										</li>
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Restaurant</span>
-											<span>Yes</span>
-										</li>												
-										<li class="d-flex justify-content-between align-items-center">
-											<span>Price per night</span>
+											<span>Price per person</span>
 											<a href="#" class="price-btn">$250</a>
 										</li>													
 									</ul>
@@ -450,7 +398,7 @@
 							<a href="#" class="primary-btn text-uppercase">request custom price</a>
 						</div>
 						<div class="col-lg-6 col-md-12 home-about-right no-padding">
-							<img class="img-fluid" src="img/hotels/about-img.jpg" alt="">
+							<img class="img-fluid" src="img/packages/about-img.jpg" alt="">
 						</div>
 					</div>
 				</div>	

@@ -1,4 +1,5 @@
-	<!DOCTYPE html>
+<?php?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -37,8 +38,8 @@
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="#">Visit Us</a></li>
-			  					<li><a href="#">Buy Tickets</a></li>
+								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
+							
 			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
@@ -57,113 +58,94 @@
 				      <div id="logo">
 				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
-				      <nav id="nav-menu-container">
+					  <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="packages.html">Packages</a></li>
-				          <li><a href="hotels.html">Hotels</a></li>
-				          <li><a href="insurance.html">Insurence</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
-				          <li><a href="contact.html">Contact</a></li>
+							<li><a href="index.html">Inicio</a></li>
+							<li><a href="about.html">Acerca de</a></li>
+							<li><a href="transfers.html">Traslados</a></li>
+							<li><a href="elements.html">Tours</a></li>	
+							<li><a href="destinations.html">Destinos</a></li>
+							<li><a href="agencias.html">Agencias</a></li>
+							<li><a href="blog-single.html">Blog</a></li>	          					          		          
+							<li><a href="contact.html">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
 				</div>
 			</header><!-- #header -->
-	  
+			  
 			<!-- start banner Area -->
-			<section class="relative about-banner">	
+			<section class="about-banner relative">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Contact Us				
+								Insurance				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="contact.html"> Contact Us</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="insurance.html"> Insurance</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->				  
+			<!-- End banner Area -->	
 
-			<!-- Start contact-page Area -->
-			<section class="contact-page-area section-gap">
+			<!-- Start insurence-one Area -->
+			<section class="insurence-one-area section-gap">
 				<div class="container">
-					<div class="row">
-						<div class="map-wrap" style="width:100%; height: 445px;" id="map"></div>
-						<div class="col-lg-4 d-flex flex-column address-wrap">
-							<div class="single-contact-address d-flex flex-row">
-								<div class="icon">
-									<span class="lnr lnr-home"></span>
-								</div>
-								<div class="contact-details">
-									<h5>Binghamton, New York</h5>
-									<p>
-										4343 Hinkle Deegan Lake Road
-									</p>
-								</div>
-							</div>
-							<div class="single-contact-address d-flex flex-row">
-								<div class="icon">
-									<span class="lnr lnr-phone-handset"></span>
-								</div>
-								<div class="contact-details">
-									<h5>00 (958) 9865 562</h5>
-									<p>Mon to Fri 9am to 6 pm</p>
-								</div>
-							</div>
-							<div class="single-contact-address d-flex flex-row">
-								<div class="icon">
-									<span class="lnr lnr-envelope"></span>
-								</div>
-								<div class="contact-details">
-									<h5>support@colorlib.com</h5>
-									<p>Send us your query anytime!</p>
-								</div>
-							</div>														
+					<div class="row align-items-center">
+						<div class="col-lg-6 insurence-left">
+							<img class="img-fluid img-one" src="img/insurence/i1.jpg" alt="">
 						</div>
-						<div class="col-lg-8">
-							<form class="form-area contact-form text-right" id="myForm" action="mail.php" method="post">
-								<div class="row">	
-									<div class="col-lg-6 form-group">
-										<input name="name" placeholder="Enter your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" class="common-input mb-20 form-control" required="" type="text">
-									
-										<input name="email" placeholder="Enter email address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control" required="" type="email">
-
-										<input name="subject" placeholder="Enter subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter subject'" class="common-input mb-20 form-control" required="" type="text">
-									</div>
-									<div class="col-lg-6 form-group">
-										<textarea class="common-textarea form-control" name="message" placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'" required=""></textarea>				
-									</div>
-									<div class="col-lg-12">
-										<div class="alert-msg" style="text-align: left;"></div>
-										<button class="genric-btn primary" style="float: right;">Send Message</button>											
-									</div>
-								</div>
-							</form>	
+						<div class="col-lg-6 insurence-right">
+							<h6 class="text-uppercase">Need to know</h6>
+							<h1>Insurance for journey</h1>
+							<p>
+								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+							</p>
+							<div class="list-wrap">
+								<ul>
+									<li>Strategic approach towards redesigning brand.</li>
+									<li>logo design strategy ensures a perfectly crafted
+									logo for your business.</li>
+									<li>Branding that stands out in the crowd.</li>
+									<li>Modern and evergreen logo for your business.</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>	
 			</section>
-			<!-- End contact-page Area -->
+			<!-- End insurence-one Area -->
+
+			<!-- Start insurence-two Area -->
+			<section class="insurence-two-area pb-120">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 insurence-left">
+							<h6 class="text-uppercase">Need to know</h6>
+							<h1>Insurance for journey</h1>
+							<p>
+								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+							</p>
+							<div class="list-wrap">
+								<ul>
+									<li>Strategic approach towards redesigning brand.</li>
+									<li>logo design strategy ensures a perfectly crafted
+									logo for your business.</li>
+									<li>Branding that stands out in the crowd.</li>
+									<li>Modern and evergreen logo for your business.</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-6 insurence-right">
+							<img class="img-fluid img-two" src="img/insurence/i2.jpg" alt="">
+						</div>						
+					</div>
+				</div>	
+			</section>
+			<!-- End insurence-two Area -->			
+			
 
 			<!-- start footer Area -->		
 			<footer class="footer-area section-gap">

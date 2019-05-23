@@ -2097,7 +2097,7 @@ h1, h2, h3, h4, h5, h6 {
 .main-menu {
   padding-bottom: 20px;
   padding-top: 20px;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(54, 216, 4, 0.384);
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -2113,7 +2113,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   transition: all 0.5s;
-  background-color: rgba(34, 34, 34, 0.9);
+  background-color: rgba(54, 216, 4, 0.432);
 }
 
 #header.header-scrolled .header-top {
