@@ -82,7 +82,7 @@
 							<h1 class="text-white">
 								Blog Details Page				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="blog-home.html">Blog </a> <span class="lnr lnr-arrow-right"></span> <a href="blog-single.html"> Blog Details Page</a></p>
+							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span><a href="blog.php">Blog </a></p>
 						</div>	
 					</div>
 				</div>
