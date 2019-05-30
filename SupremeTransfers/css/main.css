@@ -50,12 +50,12 @@ $black			: #222;
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #f8b600;
+  background-color: #030303;
   color: #fff;
 }
 
 ::selection {
-  background-color: #f8b600;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -2097,11 +2097,11 @@ h1, h2, h3, h4, h5, h6 {
 .main-menu {
   padding-bottom: 20px;
   padding-top: 20px;
-  background: rgba(54, 216, 4, 0.384);
+  background: rgba(54, 216, 4, 0.363);
   padding-left: 15px;
   padding-right: 15px;
 }
-
+  
 #header {
   position: fixed;
   left: 0;
@@ -2113,7 +2113,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   transition: all 0.5s;
-  background-color: rgba(54, 216, 4, 0.432);
+  background-color: rgba(58, 216, 19, 0.301);
 }
 
 #header.header-scrolled .header-top {
