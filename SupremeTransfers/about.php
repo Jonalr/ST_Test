@@ -325,18 +325,19 @@
 								<div class="row">
 									<div class="col">
 										<ul>
-											<li><a href="#">Home</a></li>
-											<li><a href="#">Feature</a></li>
-											<li><a href="#">Services</a></li>
-											<li><a href="#">Portfolio</a></li>
+											<li><a href="">Home</a></li>
+											<li><a href="#">About Us</a></li>
+											<li><a href="#">Transfers</a></li>
+											<li><a href="#">Tours</a></li>
 										</ul>
 									</div>
 									<div class="col">
 										<ul>
-											<li><a href="#">Team</a></li>
-											<li><a href="#">Pricing</a></li>
-											<li><a href="#">Blog</a></li>
+											<li><a href="#">Destinations</a></li>
 											<li><a href="#">Contact</a></li>
+											<li><a href="#">Agencias</a></li>
+											<li><a href="#">Blog</a></li>
+											<li><a href="#">Grupos</a></li>
 										</ul>
 									</div>										
 								</div>							
