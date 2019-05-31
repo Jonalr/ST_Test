@@ -55,7 +55,7 @@
 				<div class="container main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/logohome.png" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/logohome.png" style="width: 80%; height: 50%;" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -362,7 +362,7 @@
 							<div class="single-footer-widget mail-chimp">
 								
 								<ul class="instafeed d-flex flex-wrap">
-									<img src="img/logo-mexico.png" style="width: 65%" alt="">
+									<img src="img/logo-mexico.png" style="width: 65%; height: 50%;" alt="">
 									
 								</ul>
 							</div>
