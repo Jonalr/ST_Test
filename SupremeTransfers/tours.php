@@ -218,9 +218,187 @@
 				</div>
 			</section>
 			<!-- End price Area -->
+ <!-----------Galeria---------->	
+	
+ <section class="Tours">
+				<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-9">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">Our Tours</h1>
+		                        <p>There is area of tours</p>
+		                    </div>
+		                </div>
+		            </div>					
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Yal-Ku-Lagoon-Caribbeanmaya-1.jpg" alt="">					
+								</div>
+								<a href="tour-cancun.php">
+									<h4>Cancun</h4>
+								</a>
+								<p>
+									The wonderful site of your dreams.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Luum Balam 3.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Luum Balam</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/tiburon-ballena2.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Shark Swiming</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Mayan Jungle</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>	
+						<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Yal-Ku-Lagoon-Caribbeanmaya-1.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Cancun</h4>
+								</a>
+								<p>
+									The wonderful site of your dreams.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/xelha detalle.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Xel-há</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/zonas-arqueologicas-mayas-quintana-roo-dzibanche-2.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>To Do List</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Gran cenote</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>	
+						<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Viajes-a-Chichen-Itza.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Chichen Itzá</h4>
+								</a>
+								<p>
+									Piramide
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>snorkel Mayan jungle</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Gran cenote</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/kayak-xenotes.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Xenotes</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>																		
+					</div>																	
+					</div>																	
+					</div>
 
+				</div>	
+			</section>
+			
+			<!-----------End Galeria---------->	
 
-			<!-- Start other-issue Area -->
+			<!-- Start other-issue Area 
 			<section class="other-issue-area section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
