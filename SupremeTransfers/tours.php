@@ -247,7 +247,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/Luum Balam 3.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/toursitos/cenote..jpg" alt="">					
 								</div>
 								<a href="#">
 									<h4>Luum Balam</h4>
@@ -260,7 +260,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/tiburon-ballena2.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/toursitos/tiburon.jpg" alt="">					
 								</div>
 								<a href="#">
 									<h4>Shark Swiming</h4>
@@ -300,7 +300,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/xelha detalle.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/toursitos/xelha.jpg" alt="">					
 								</div>
 								<a href="#">
 									<h4>Xel-há</h4>
@@ -313,10 +313,10 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/zonas-arqueologicas-mayas-quintana-roo-dzibanche-2.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/toursitos/piramide.jpg" alt="">					
 								</div>
 								<a href="#">
-									<h4>To Do List</h4>
+									<h4>Chichen Itzá</h4>
 								</a>
 								<p>
 									The following article covers a topic that has recently moved to center stage–at least it seems.
@@ -379,7 +379,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/kayak-xenotes.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/toursitos/kayak-xenotes.jpg" alt="">					
 								</div>
 								<a href="#">
 									<h4>Xenotes</h4>
