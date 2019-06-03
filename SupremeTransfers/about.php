@@ -363,7 +363,7 @@
 								
 								<ul class="instafeed d-flex flex-wrap">
 									<img src="img/logo-mexico.png" style="width: 65%;  height: 50%;" alt="">
-									<img src="img/logo-mexico.png" style="width: 65%; height: 50%;" alt="">
+							
 									
 								</ul>
 							</div>
