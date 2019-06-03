@@ -377,8 +377,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 						<div class="col-lg-4 col-sm-12 footer-social">
 							<a href="#"><i class="fa fa-facebook"></i></a>
 							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
 						</div>
 					</div>
 				</div>
