@@ -516,6 +516,7 @@
 								We‘ll make it for you
 							</h1>
 							<p>
+							
 								inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women, our behavior on the job is beyond reproach. inappropriate behavior is often laughed.
 							</p>
 							<a href="#" class="primary-btn text-uppercase">request custom price</a>
