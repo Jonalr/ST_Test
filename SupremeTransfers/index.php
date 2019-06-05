@@ -80,7 +80,7 @@
 				<div class="container">
 					<div class="row fullscreen align-items-center justify-content-between">
 						<div class="col-lg-6 col-md-6 banner-left">
-							<h6 class="text-white">Away from monotonous life</h6>
+							<h6 class="text-white">Away from your routines</h6>
 							<h1 class="text-white">Supreme Transfers</h1>
 							<p class="text-white">
 								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
@@ -93,7 +93,7 @@
 							    <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
 							  </li>
 							  <li class="nav-item">
-							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Translades</a>
+							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
 							  </li>
 							<!--<li class="nav-item">
 							    <a class="nav-link" id="holiday-tab" data-toggle="tab" href="#holiday" role="tab" aria-controls="holiday" aria-selected="false">Destinations</a>
@@ -104,10 +104,10 @@
 								<form class="form-wrap">
 									<input type="text" class="form-control" name="Tour" placeholder="Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tour '">									
 									<input type="text" class="form-control" name="Paquete" placeholder="Paquete " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Paquete '">
-									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
+									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Fecha de tour '">
 								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
-									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
+									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adultos '">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños '">							
 									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
 								</form>
 							  </div>
@@ -116,10 +116,10 @@
 									<input type="text" class="form-control" name="Destino" placeholder="Destino " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Destino '">									
 									<input type="text" class="form-control" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">
 									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
-									<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">
-									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
-									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
+									<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'LLegada '">
+									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adultos '">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Niños '">						
+									<a href="#" class="primary-btn text-uppercase">Obtener Preciosx</a>									
 								</form>							  	
 							  </div>
 							<!-- <div class="tab-pane fade" id="holiday" role="tabpanel" aria-labelledby="holiday-tab">
