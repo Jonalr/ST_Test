@@ -119,7 +119,7 @@
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
-									<a href="#" class="primary-btn text-uppercase">Obtener Preciosx</a>									
+									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
 								</form>							  	
 							  </div>
 							<!-- <div class="tab-pane fade" id="holiday" role="tabpanel" aria-labelledby="holiday-tab">
