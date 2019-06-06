@@ -32,6 +32,9 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
+			<style>
+			 body { background-color: #f8f9fa; }
+			</style>
 			<header id="header">
 				<div class="header-top">
 					<div class="container">
