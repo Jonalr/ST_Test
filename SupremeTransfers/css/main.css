@@ -823,7 +823,7 @@ td, th {
 
 .generic-banner {
   margin-top: 60px;
-  background-color: #1900f8;
+  background-color: #f8d300;
   text-align: center;
 }
 
@@ -2054,7 +2054,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-top a:hover {
-  color: #1900f8;
+  color: #f8cb00;
 }
 
 .header-top ul li {
