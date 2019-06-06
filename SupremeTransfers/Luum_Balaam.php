@@ -82,7 +82,7 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Cancún				
+								Luum Balaam				
 							</h1>	
 							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="transfers.php"> Traslados</a></p>
 						</div>	
@@ -97,7 +97,7 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-justify">
-		                        <h1 class="mb-10 text-center">The place more visited of Cancun</h1>
+		                        <h1 class="mb-10 text-center">The place more visited</h1>
 		                        <p>We all live in an age that belongs to the young at heart. There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours

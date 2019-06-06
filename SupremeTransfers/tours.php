@@ -142,7 +142,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/toursitos/cenote..jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="luum_balaam.php">
 									<h4>Luum Balam</h4>
 								</a>
 								<p>
@@ -155,7 +155,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/toursitos/tiburon.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="Shark_swimming.php">
 									<h4>Shark Swiming</h4>
 								</a>
 								<p>
@@ -168,7 +168,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="mayan_jungle.php">
 									<h4>Mayan Jungle</h4>
 								</a>
 								<p>
@@ -180,13 +180,13 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/Yal-Ku-Lagoon-Caribbeanmaya-1.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/mayanadventure.jpg" alt="">					
 								</div>
-								<a href="#">
-									<h4>Cancun</h4>
+								<a href="mayan_adventure.php">
+									<h4>Mayan adveture</h4>
 								</a>
 								<p>
-									The wonderful site of your dreams.
+									The wonderful place in Mexico.
 								</p>
 							</div>
 						</div>
@@ -195,7 +195,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/toursitos/xelha.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="xel-ha.php">
 									<h4>Xel-há</h4>
 								</a>
 								<p>
@@ -208,7 +208,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/toursitos/piramide.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="chichen.php">
 									<h4>Chichen Itzá</h4>
 								</a>
 								<p>
@@ -221,7 +221,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="grancenote.php">
 									<h4>Gran cenote</h4>
 								</a>
 								<p>
@@ -235,8 +235,8 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/Viajes-a-Chichen-Itza.jpg" alt="">					
 								</div>
-								<a href="#">
-									<h4>Chichen Itzá</h4>
+								<a href="chichen.php">
+									<h4>Chichen</h4>
 								</a>
 								<p>
 									Piramide
@@ -248,7 +248,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="snorkelMayan.php">
 									<h4>snorkel Mayan jungle</h4>
 								</a>
 								<p>
@@ -261,7 +261,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="granCenote.php">
 									<h4>Gran cenote</h4>
 								</a>
 								<p>
@@ -274,7 +274,7 @@
 								<div class="thumb">
 									<img class="img-fluid" src="img/tours/toursitos/kayak-xenotes.jpg" alt="">					
 								</div>
-								<a href="#">
+								<a href="xenote.php">
 									<h4>Xenotes</h4>
 								</a>
 								<p>
