@@ -378,7 +378,7 @@
 			<!-- End other-issue Area -->
 			
 
-			<!-- Start testimonial Area -->
+			<!-- Start testimonial Area 
 		    <section class="testimonial-area section-gap">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">

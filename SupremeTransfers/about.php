@@ -179,7 +179,7 @@
 			<!-- End other-issue Area -->
 			
 
-			<!-- Start testimonial Area -->
+			<!-- Start testimonial Area
 		    <section class="testimonial-area section-gap">
 		        <div class="container">
 		            <div class="row d-flex justify-content-center">
@@ -304,7 +304,7 @@
 		            </div>
 		        </div>
 		    </section>
-		    <!-- End testimonial Area -->
+		   End testimonial Area -->
 
 			<!-- start footer Area -->		
 			<footer class="footer-area section-gap">
