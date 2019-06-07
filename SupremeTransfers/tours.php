@@ -307,7 +307,7 @@
 								<h4>Cheap Packages</h4>
 								<ul class="price-list">
 									<li class="d-flex justify-content-between align-items-center">
-										<span>New York</span>
+										<span>Pueblo Maya</span>
 										<a href="#" class="price-btn">$1500</a>
 									</li>
 									<li class="d-flex justify-content-between align-items-center">

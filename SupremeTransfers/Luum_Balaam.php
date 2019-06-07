@@ -112,7 +112,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -127,7 +127,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun2.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -142,7 +142,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -164,7 +164,7 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-6">
 		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+							<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 		                        <h1 class="mb-10 text-center">Cancún</h1>
 		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
@@ -177,7 +177,7 @@
 						</div>
 						<div class="menu-content pb-70 col-lg-6">
 		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+							<img class="img-fluid" src="img/packages/Cenote.jpg" alt="">
 		                        <h1 class="mb-10 text-center">Cancún</h1>
 		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
