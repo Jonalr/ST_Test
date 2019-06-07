@@ -89,18 +89,74 @@
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->	
+			<!-- End banner Area -->
+			
+			<style>
+				
+				.row .pg{
+					padding: 120px;
+				}
 
+				.col-ico1{
+					max-width: 400px;
+					margin-left: 200px;
+					margin-right: 100px;
+				}
+				.col-ico2{
+					max-width: 400px;
+					margin-left: 100px;
+					margin-right: 100px;
+				}
+				.col-ico3{
+					max-width: 400px;
+					margin-left: 100px;
+					margin-right: 100px;
+				}
+				.col-ico4{
+					max-width: 400px;
+					margin-left: 100px;
+					margin-right: 100px;
+				}
+			
+			</style>
+			
+		
 			<!-- Start insurence-one Area -->
 			<section class="insurence-one-area section-gap">
+
+			<div class="row pg">
+				<div class="col-ico1">
+					<img src="img/icon/soporte.png" style=" width:85px; height:85px; ">
+					<p>Soporte</p>
+
+				</div>
+				
+				<div class="col-ico2">
+					<img src="img/icon/call center.png" style=" width:85px; height:85px; " >
+					<p>Call Center</p>
+				
+				</div>
+
+				<div class="col-ico3">
+					<img src="img/icon/mobile.png" style=" width:85px; height:85px; " >
+					<p>Mobile </p>
+
+				</div>
+				
+				<div class="col-ico4">
+					<img src="img/icon/registro.png" style=" width:85px; height:85px; ">
+					<p>Registro</p>
+				</div>
+			
+			</div>
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6 insurence-left">
-							<img class="img-fluid img-one" src="img/insurence/i1.jpg" alt="">
+							<img class="img-fluid img-one" src="img/insurence/vantransfer.jpg" alt="" style="width: 440px; height: 350px;">
 						</div>
 						<div class="col-lg-6 insurence-right">
-							<h6 class="text-uppercase">Need to know</h6>
-							<h1>Insurance for journey</h1>
+							
+							<h1>Transfers</h1>
 							<p>
 								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
 							</p>
@@ -125,7 +181,7 @@
 					<div class="row align-items-center">
 						<div class="col-lg-6 insurence-left">
 							<h6 class="text-uppercase">Need to know</h6>
-							<h1>Insurance for journey</h1>
+							<h1>Tours</h1>
 							<p>
 								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
 							</p>
@@ -140,12 +196,74 @@
 							</div>
 						</div>
 						<div class="col-lg-6 insurence-right">
-							<img class="img-fluid img-two" src="img/insurence/i2.jpg" alt="">
+							<img class="img-fluid img-two" src="img/insurence/1i.jpg" alt="" style="width: 440px; height: 350px;">
 						</div>						
 					</div>
 				</div>	
 			</section>
-			<!-- End insurence-two Area -->			
+			<!-- End insurence-two Area -->	
+			
+			<!-- FORMULARIO -->
+			<section class="contact-page-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4 d-flex flex-column address-wrap">
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-home"></span>
+								</div>
+								<div class="contact-details">
+									<h5>Binghamton, New York</h5>
+									<p>
+										4343 Hinkle Deegan Lake Road
+									</p>
+								</div>
+							</div>
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-phone-handset"></span>
+								</div>
+								<div class="contact-details">
+									<h5>00 (958) 9865 562</h5>
+									<p>Mon to Fri 9am to 6 pm</p>
+								</div>
+							</div>
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-envelope"></span>
+								</div>
+								<div class="contact-details">
+									<h5>support@colorlib.com</h5>
+									<p>Send us your query anytime!</p>
+								</div>
+							</div>														
+						</div>
+						<div class="col-lg-8">
+							<form class="form-area contact-form text-right" id="myForm" action="mail.php" method="post">
+								<div class="row">	
+									<div class="col-lg-6 form-group">
+										<input name="name" placeholder="Enter your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" class="common-input mb-20 form-control" required="" type="text">
+									
+										<input name="email" placeholder="Enter email address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control" required="" type="email">
+
+										<input name="subject" placeholder="Enter subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter subject'" class="common-input mb-20 form-control" required="" type="text">
+									</div>
+									<div class="col-lg-6 form-group">
+										<textarea class="common-textarea form-control" name="message" placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'" required=""></textarea>				
+									</div>
+									<div class="col-lg-12">
+										<div class="alert-msg" style="text-align: left;"></div>
+										<button class="genric-btn primary" style="float: right;">Send Message</button>											
+									</div>
+								</div>
+							</form>	
+						</div>
+					</div>
+				</div>	
+			</section>
+			
+			<!-- FORMULLARIO -->
+	
 			
 
 			<!-- start footer Area -->		
