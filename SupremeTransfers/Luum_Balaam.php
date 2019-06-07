@@ -82,7 +82,7 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Cancún				
+								Luum Balaam				
 							</h1>	
 							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="transfers.php"> Traslados</a></p>
 						</div>	
@@ -97,7 +97,7 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-justify">
-		                        <h1 class="mb-10 text-center">The place more visited of Cancun</h1>
+		                        <h1 class="mb-10 text-center">The place more visited</h1>
 		                        <p>We all live in an age that belongs to the young at heart. There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
@@ -112,7 +112,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -127,7 +127,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun2.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -142,7 +142,7 @@
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+									<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 								</div>
 								<!--<div class="price-detials">
 									<a href="#" class="price-btn">Starting From <span>$250</span></a>
@@ -164,7 +164,7 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-6">
 		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+							<img class="img-fluid" src="img/packages/cenote2.jpg" alt="">
 		                        <h1 class="mb-10 text-center">Cancún</h1>
 		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
@@ -177,7 +177,7 @@
 						</div>
 						<div class="menu-content pb-70 col-lg-6">
 		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+							<img class="img-fluid" src="img/packages/Cenote.jpg" alt="">
 		                        <h1 class="mb-10 text-center">Cancún</h1>
 		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
 								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
