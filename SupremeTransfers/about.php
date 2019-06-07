@@ -96,19 +96,100 @@
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6 info-left">
-							<img class="img-fluid" src="img/about/info-img.jpg" alt="">
+							<img class="img-fluid" src="img/packages/about.jpg">
 						</div>
 						<div class="col-lg-6 info-right">
-							<h6>About Us</h6>
 							<h1>Who We Are?</h1>
 							<p>
-								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, 
+								consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+								exercitation ullamco. focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. 
+								Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+								
 							</p>
 						</div>
 					</div>
 				</div>	
 			</section>
 			<!-- End about-info Area -->
+			
+			<section class="recent-blog-area section-gap">
+				<div class="container">
+					<div class="row d-flex justify-content-center">		
+					</div>							
+					<div class="row">
+						<div class="active-recent-blog-carusel">
+							<div class="single-recent-blog-post item">
+								<div class="thumb">
+									<img class="img-fluid" src="img/b1.jpg" alt="">
+								</div>
+								<div class="details">
+									<div class="tags">
+										<ul>
+											<li>
+												<a href="#">Travel</a>
+											</li>
+											<li>
+												<a href="#">Life Style</a>
+											</li>											
+										</ul>
+									</div>
+									<a href="#"><h4 class="title">Low Cost Advertising</h4></a>
+									<p>
+										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
+									</p>
+									<h6 class="date">31st January,2018</h6>
+								</div>	
+							</div>
+							<div class="single-recent-blog-post item">
+								<div class="thumb">
+									<img class="img-fluid" src="img/b2.jpg" alt="">
+								</div>
+								<div class="details">
+									<div class="tags">
+										<ul>
+											<li>
+												<a href="#">Travel</a>
+											</li>
+											<li>
+												<a href="#">Life Style</a>
+											</li>											
+										</ul>
+									</div>
+									<a href="#"><h4 class="title">Creative Outdoor Ads</h4></a>
+									<p>
+										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
+									</p>
+									<h6 class="date">31st January,2018</h6>
+								</div>	
+							</div>
+							<div class="single-recent-blog-post item">
+								<div class="thumb">
+									<img class="img-fluid" src="img/b3.jpg" alt="">
+								</div>
+								<div class="details">
+									<div class="tags">
+										<ul>
+											<li>
+												<a href="#">Travel</a>
+											</li>
+											<li>
+												<a href="#">Life Style</a>
+											</li>											
+										</ul>
+									</div>
+									<a href="#"><h4 class="title">It's Classified How To Utilize Free</h4></a>
+									<p>
+										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
+									</p>
+									<h6 class="date">31st January,2018</h6>
+								</div>	
+							</div>	
+							</div>
+					</div>
+				</div>	
+			</section>
+
 			<!-- Start other-issue Area -->
 			<section class="other-issue-area section-gap">
 				<div class="container">
@@ -129,8 +210,7 @@
 								<a href="#">
 									<h4>Rent a Car</h4>
 								</a>
-								<p>
-									The preservation of human life is the ultimate value, a pillar of ethics and the foundation.
+								<p>The preservation of human life is the ultimate value, a pillar of ethics and the foundation.
 								</p>
 							</div>
 						</div>
