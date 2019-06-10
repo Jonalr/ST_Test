@@ -75,7 +75,8 @@
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
 				</div>
-			</header><!-- #header -->
+			</header>
+			<!-- #header -->
 			
 			<!-- start banner Area -->
 			<section class="banner-area relative">
@@ -156,42 +157,39 @@
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
-									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/d1.jpg" alt="">
+								<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/Cancun4.jpg" alt="">
 								</div>
-								<div class="desc">	
-									<a href="#" class="price-btn">$150</a>			
-									<h4>Mountain River</h4>
-									<p>Paraguay</p>			
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-destination relative">
-								<div class="thumb relative">
-									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/d2.jpg" alt="">
-								</div>
-								<div class="desc">	
-									<a href="#" class="price-btn">$250</a>			
-									<h4>Dream City</h4>
-									<p>Paris</p>			
+								<div class="desc">			
+									<h4>Beach in Cancun</h4>
+									<p>Cancun</p>			
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
-									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/d3.jpg" alt="">
+								<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/jungleMaya.jpg" alt="">
 								</div>
-								<div class="desc">	
-									<a href="#" class="price-btn">$350</a>			
-									<h4>Cloud Mountain</h4>
-									<p>Sri Lanka</p>			
+								<div class="desc">		
+									<h4>Jungle Maya</h4>
+									<p>Tulum</p>			
 								</div>
 							</div>
-						</div>	-->											
+						</div>
+						<div class="col-lg-4">
+							<div class="single-destination relative">
+								<div class="thumb relative">
+								<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/xelha.jpg" alt="">
+								</div>
+								<div class="desc">			
+									<h4>Xelha</h4>
+									<p>Cancun</p>			
+								</div>
+							</div>
+						</div>											
 					</div>
 				</div>	
 			</section>
