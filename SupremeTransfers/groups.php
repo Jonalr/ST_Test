@@ -83,7 +83,7 @@
 							<h1 class="text-white">
 								Groups				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="grupos.php"> Grupos</a></p>
+							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="groups.php"> Grupos</a></p>
 						</div>	
 					</div>
 				</div>
