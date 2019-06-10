@@ -189,8 +189,31 @@
 					</div>
 				</div>	
 			</section>
+			
+			<!--Start other info-->
+			<section class="about-info-area section-gap">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 info-left">
+							<h1>Who We Are?</h1>
+							<p>
+								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, 
+								consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+								exercitation ullamco. focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. 
+								Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+								
+							</p>
+						</div>
+						<div class="col-lg-6 info-right">
+						<img class="img-fluid" src="img/tours/1.jpg">
+					</div>
+					</div>
+				</div>	
+			</section>
+			<!--End Other info-->
 
-			<!-- Start other-issue Area -->
+
+			<!-- Start other-issue Area 
 			<section class="other-issue-area section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
