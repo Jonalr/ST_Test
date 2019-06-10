@@ -101,9 +101,10 @@
 									<span class="lnr lnr-home"></span>
 								</div>
 								<div class="contact-details">
-									<h5>Binghamton, New York</h5>
+									<h5>Cancún, Quintana Roo</h5>
 									<p>
-										4343 Hinkle Deegan Lake Road
+									Smza 59, Oficina 6, Av Lopez Portillo, Edificio Morelos, Benito Juárez, 77515,
+									<ul>Horas Laborables: 9:00AM - 9:00PM</ul>							 
 									</p>
 								</div>
 							</div>
@@ -112,8 +113,8 @@
 									<span class="lnr lnr-phone-handset"></span>
 								</div>
 								<div class="contact-details">
-									<h5>00 (958) 9865 562</h5>
-									<p>Mon to Fri 9am to 6 pm</p>
+									<h5>Teléfono de Contacto: (+52)9987054953</h5>
+									<p>Días Laborales: Mon-Sun / Lun-Dom</p>
 								</div>
 							</div>
 							<div class="single-contact-address d-flex flex-row">
@@ -121,7 +122,7 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5>support@colorlib.com</h5>
+									<h5>support@supremetransfers.com</h5>
 									<p>Send us your query anytime!</p>
 								</div>
 							</div>														
