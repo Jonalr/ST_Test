@@ -65,7 +65,7 @@
 						  <li><a href="tours.php">Tours</a></li>	
 				          <li><a href="destinations.php">Destinos</a></li>
 				          <li><a href="agencias.php">Agencias</a></li>
-									<li><a href="grupos.php">Grupos</a></li>
+						  <li><a href="groups.php">Grupos</a></li>
 				          <li><a href="blog.php">Blog</a></li>	          					          		          
 				          <li><a href="contact.php">Contact</a></li>
 				        </ul>
