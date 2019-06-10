@@ -35,41 +35,41 @@
 			<header id="header">
 				<div class="header-top">
 					<div class="container">
-			  		<div class="row align-items-center">
-			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
-			  				<ul>
+					  <div class="row align-items-center">
+						  <div class="col-lg-6 col-sm-6 col-6 header-top-left">
+							  <ul>
 								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
 							
-			  				</ul>			
-			  			</div>
-			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
+							  </ul>			
+						  </div>
+						  <div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								
 							</div>
-			  			</div>
-			  		</div>			  					
+						  </div>
+					  </div>			  					
 					</div>
 				</div>
 				<div class="container main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.php"><img src="img/logohome.png" style="width: 80%; height: 50%;" alt="" title="" /></a>
-				      </div>
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				            <li><a href="index.php">Inicio</a></li>
-				          <li><a href="about.php">Acerca de</a></li>
+					  <div id="logo">
+						<a href="index.php"><img src="img/logohome.png" style="width: 80%; height: 50%;" alt="" title="" /></a>
+					  </div>
+					  <nav id="nav-menu-container">
+						<ul class="nav-menu">
+							<li><a href="index.php">Inicio</a></li>
+						  <li><a href="about.php">Acerca de</a></li>
 						  <li><a href="transfers.php">Traslados</a></li>
 						  <li><a href="tours.php">Tours</a></li>	
-				          <li><a href="destinations.php">Destinos</a></li>
-				          <li><a href="agencias.php">Agencias</a></li>
+						  <li><a href="destinations.php">Destinos</a></li>
+						  <li><a href="agencias.php">Agencias</a></li>
 						  <li><a href="grupos.php">Grupos</a></li>
-				          <li><a href="blog.php">Blog</a></li>	          					          		          
-				          <li><a href="contact.php">Contact</a></li>
-				        </ul>
-				      </nav><!-- #nav-menu-container -->					      		  
+						  <li><a href="blog.php">Blog</a></li>	          					          		          
+						  <li><a href="contact.php">Contact</a></li>
+						</ul>
+					  </nav><!-- #nav-menu-container -->					      		  
 					</div>
 				</div>
 			</header><!-- #header -->
@@ -78,7 +78,7 @@
 			<!-- start banner Area -->
 			<section class="about-banner relative">
 				<div class="overlay overlay-bg"></div>
-				<div class="container">				
+					<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
@@ -193,8 +193,8 @@
 			<!--Start other info-->
 			<section class="about-info-area section-gap">
 				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-6 info-left">
+				<div class="row align-items-center">
+					<div class="col-lg-6 info-left">
 							<h1>Who We Are?</h1>
 							<p>
 								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, 
@@ -204,7 +204,7 @@
 								
 							</p>
 						</div>
-						<div class="col-lg-6 info-right">
+				<div class="col-lg-6 info-right">
 						<img class="img-fluid" src="img/tours/1.jpg">
 					</div>
 					</div>
@@ -216,14 +216,14 @@
 			<!-- Start other-issue Area 
 			<section class="other-issue-area section-gap">
 				<div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-9">
-		                    <div class="title text-center">
-		                        <h1 class="mb-10">Other issues we can help you with</h1>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is.</p>
-		                    </div>
-		                </div>
-		            </div>					
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-9">
+							<div class="title text-center">
+								<h1 class="mb-10">Other issues we can help you with</h1>
+								<p>We all live in an age that belongs to the young at heart. Life that is.</p>
+							</div>
+						</div>
+					</div>					
 					<div class="row">
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
@@ -283,130 +283,130 @@
 			
 
 			<!-- Start testimonial Area
-		    <section class="testimonial-area section-gap">
-		        <div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-8">
-		                    <div class="title text-center">
-		                        <h1 class="mb-10">Testimonial from our Clients</h1>
-		                        <p>The French Revolution constituted for the conscience of the dominant aristocratic class a fall from </p>
-		                    </div>
-		                </div>
-		            </div>
-		            <div class="row">
-		                <div class="active-testimonial">
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
+			<section class="testimonial-area section-gap">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-70 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Testimonial from our Clients</h1>
+								<p>The French Revolution constituted for the conscience of the dominant aristocratic class a fall from </p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="active-testimonial">
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user1.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
+									</p>
+									<h4>Harriet Maxwell</h4>
+									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>				
 									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
+								</div>
+							</div>
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user2.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
+									</p>
+									<h4>Carolyn Craig</h4>
+									   <div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>
 										<span class="fa fa-star"></span>			
 									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
+								</div>
+							</div>
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user1.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
+									</p>
+									<h4>Harriet Maxwell</h4>
+									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>				
 									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
+								</div>
+							</div>
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user2.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
+									</p>
+									<h4>Carolyn Craig</h4>
+									   <div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>
 										<span class="fa fa-star"></span>			
 									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
+								</div>
+							</div>
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user1.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
+									</p>
+									<h4>Harriet Maxwell</h4>
+									<div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>				
 									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
+								</div>
+							</div>
+							<div class="single-testimonial item d-flex flex-row">
+								<div class="thumb">
+									<img class="img-fluid" src="img/elements/user2.png" alt="">
+								</div>
+								<div class="desc">
+									<p>
+										A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
+									</p>
+									<h4>Carolyn Craig</h4>
+									   <div class="star">
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star checked"></span>
 										<span class="fa fa-star"></span>
 										<span class="fa fa-star"></span>			
 									</div>	
-		                        </div>
-		                    </div>		                    		                    
-		                </div>
-		            </div>
-		        </div>
-		    </section>
+								</div>
+							</div>		                    		                    
+						</div>
+					</div>
+				</div>
+			</section>
 		   End testimonial Area -->
 
 			<!-- start footer Area -->		
@@ -490,8 +490,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			<script src="js/popper.min.js"></script>
 			<script src="js/vendor/bootstrap.min.js"></script>			
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>		
- 			<script src="js/jquery-ui.js"></script>					
-  			<script src="js/easing.min.js"></script>			
+			 <script src="js/jquery-ui.js"></script>					
+			  <script src="js/easing.min.js"></script>			
 			<script src="js/hoverIntent.js"></script>
 			<script src="js/superfish.min.js"></script>	
 			<script src="js/jquery.ajaxchimp.min.js"></script>
