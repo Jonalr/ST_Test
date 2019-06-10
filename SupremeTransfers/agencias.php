@@ -46,8 +46,6 @@
 							<div class="header-social">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
-								<a href="#"><i class="fa fa-dribbble"></i></a>
-								<a href="#"><i class="fa fa-behance"></i></a>
 							</div>
 			  			</div>
 			  		</div>			  					
@@ -92,63 +90,74 @@
 			<!-- End banner Area -->
 			
 			<style>
+
 				
-				.row .pg{
-					padding: 120px;
+				.r{
+					padding: 500px;
 				}
 
 				.col-ico1{
 					max-width: 400px;
 					margin-left: 200px;
 					margin-right: 100px;
+					padding: 40px 2px;
 				}
 				.col-ico2{
 					max-width: 400px;
 					margin-left: 100px;
 					margin-right: 100px;
+					padding: 40px 2px;
 				}
 				.col-ico3{
 					max-width: 400px;
 					margin-left: 100px;
 					margin-right: 100px;
+					padding: 40px 2px;
 				}
 				.col-ico4{
 					max-width: 400px;
 					margin-left: 100px;
 					margin-right: 100px;
+					padding: 40px 2px;
 				}
 			
 			</style>
+
+			<section>
+			<div class="margen-ico">
+				<div class="row">
+					<div class="col-ico1">
+						<img src="img/icon/soporte.png" style=" width:85px; height:85px; ">
+						<p>Soporte</p>
+
+					</div>
+					
+					<div class="col-ico2">
+						<img src="img/icon/call center.png" style=" width:85px; height:85px; " >
+						<p>Call Center</p>
+					
+					</div>
+
+					<div class="col-ico3">
+						<img src="img/icon/mobile.png" style=" width:85px; height:85px; " >
+						<p>Mobile </p>
+
+					</div>
+					
+					<div class="col-ico4">
+						<img src="img/icon/registro.png" style=" width:85px; height:85px; ">
+						<p>Registro</p>
+					</div>
+				
+				</div>
+
+			</div>
+			</section>
 			
 		
 			<!-- Start insurence-one Area -->
-			<section class="insurence-one-area section-gap">
+			<section class="insurence-one-area">
 
-			<div class="row pg">
-				<div class="col-ico1">
-					<img src="img/icon/soporte.png" style=" width:85px; height:85px; ">
-					<p>Soporte</p>
-
-				</div>
-				
-				<div class="col-ico2">
-					<img src="img/icon/call center.png" style=" width:85px; height:85px; " >
-					<p>Call Center</p>
-				
-				</div>
-
-				<div class="col-ico3">
-					<img src="img/icon/mobile.png" style=" width:85px; height:85px; " >
-					<p>Mobile </p>
-
-				</div>
-				
-				<div class="col-ico4">
-					<img src="img/icon/registro.png" style=" width:85px; height:85px; ">
-					<p>Registro</p>
-				</div>
-			
-			</div>
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-6 insurence-left">
