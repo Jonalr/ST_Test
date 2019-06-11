@@ -1,7 +1,4 @@
-Option All - Indexes
 
-#Sintaxis Error Carpeta y la ruta del archivo
+ErrorDocument 404 /Git/ST_Test/SupremeTransfers/errors/404.html
 
-ErrorDocument 404 / errors/404.html
-
-ErrorDcoument 505 / errors/404.html
+ErrorDocument 500 /Git/ST_Test/SupremeTransfers/errors/404.html
