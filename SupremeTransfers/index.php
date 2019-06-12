@@ -94,12 +94,11 @@
 						
 						<div class="col-lg-4 col-md-6 banner-right">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
+								
 							  <li class="nav-item">
 							    <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
 							  </li>
-							  <li class="nav-item">
-							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
-							  </li>
+							  
 							<!--<li class="nav-item">
 							    <a class="nav-link" id="holiday-tab" data-toggle="tab" href="#holiday" role="tab" aria-controls="holiday" aria-selected="false">Destinations</a>
 							  </li>-->

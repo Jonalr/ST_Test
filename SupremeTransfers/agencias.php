@@ -91,9 +91,16 @@
 			
 			<style>
 
+				.section-gapv2{
+
+					padding: 65px 15px;
+
+				}
+
 				
-				.r{
-					padding: 500px;
+				.titleag{
+					padding: 35px 2px;
+					text-align: center;
 				}
 
 				.col-ico1{
@@ -124,7 +131,9 @@
 			</style>
 
 			<section>
+
 			<div class="margen-ico">
+				<h1 class="titleag">Lorem ipsture.</h1>
 				<div class="row">
 					<div class="col-ico1">
 						<img src="img/icon/soporte.png" style=" width:85px; height:85px; ">
@@ -150,6 +159,62 @@
 					</div>
 				
 				</div>
+
+				<h1 class="titleag">Lorem ipsture.</h1>
+				<div class="row section-gapv2 text-center">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid " src="img/o1.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Rent a Car</h4>
+								</a>
+								<p>
+									The preservation of human life is the ultimate value, a pillar of ethics and the foundation.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/o2.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Cruise Booking</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/o3.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>To Do List</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/o4.jpg" alt="">					
+								</div>
+								<a href="#">
+									<h4>Food Features</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>																		
+					</div>
 
 			</div>
 			</section>

@@ -2635,7 +2635,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	font-weight: 300;
 	border-radius: 0px;
 	margin-bottom: 10px;
-	border-color: #eee;
+	border-color: rgb(1, 21, 207);
 }
 
 .banner-right .form-wrap .form-control:focus {
