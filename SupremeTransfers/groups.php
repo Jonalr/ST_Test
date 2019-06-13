@@ -93,7 +93,7 @@
 	.container{
   			padding: 10px;
 		}
-	</style>
+	</style> 
 			<!-- start reserv Area -->		
 			<div class="container">
 				<div class="row fullscreen align-items-center float-right">

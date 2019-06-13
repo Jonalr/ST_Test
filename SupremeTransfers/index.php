@@ -95,10 +95,10 @@
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 
 							 <li class="nav-item">
-							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
+							    <a style="background-color: #003464" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
 							  </li>
 							  <li class="nav-item">
-							    <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
+							    <a style="background-color: #003464" class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
 							  </li>
 							 
 							<!--<li class="nav-item">
@@ -108,7 +108,8 @@
 
 
 							<div class="tab-content" id="myTabContent">
-							  <div class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+							  <div style="background-color: #003464;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+							  
 								<form class="form-wrap">
 									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
 									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
@@ -116,10 +117,11 @@
 								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn text-uppercase">Get prices</a>									
 								</form>
 							  </div>
-							  <div class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
+							  <div style="background-color: #003464;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
+							 
 								<form class="form-wrap">
 									<input type="text" class="form-control" name="Hotel" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
@@ -127,7 +129,7 @@
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
-									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn text-uppercase">Get prices</a>									
 								</form>							  	
 							  </div>
 							
