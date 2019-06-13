@@ -93,12 +93,14 @@
 						
 						<div class="col-lg-4 col-md-6 banner-right">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
+
+							 <li class="nav-item">
+							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
+							  </li>
 							  <li class="nav-item">
 							    <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
 							  </li>
-							  <li class="nav-item">
-							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
-							  </li>
+							 
 							<!--<li class="nav-item">
 							    <a class="nav-link" id="holiday-tab" data-toggle="tab" href="#holiday" role="tab" aria-controls="holiday" aria-selected="false">Destinations</a>
 							  </li>-->
@@ -106,7 +108,7 @@
 
 
 							<div class="tab-content" id="myTabContent">
-							  <div class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+							  <div class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 								<form class="form-wrap">
 									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
 									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
@@ -117,7 +119,7 @@
 									<a href="#" class="primary-btn text-uppercase">Get prices</a>									
 								</form>
 							  </div>
-							  <div class="tab-pane fade" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
+							  <div class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
 								<form class="form-wrap">
 									<input type="text" class="form-control" name="Hotel" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
