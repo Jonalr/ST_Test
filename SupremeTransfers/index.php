@@ -75,8 +75,7 @@
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
 				</div>
-			</header>
-			<!-- #header -->
+			</header><!-- #header -->
 			
 			<!-- start banner Area -->
 			<section class="banner-area relative">
@@ -94,11 +93,12 @@
 						
 						<div class="col-lg-4 col-md-6 banner-right">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
-								
 							  <li class="nav-item">
 							    <a class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
 							  </li>
-							  
+							  <li class="nav-item">
+							    <a class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
+							  </li>
 							<!--<li class="nav-item">
 							    <a class="nav-link" id="holiday-tab" data-toggle="tab" href="#holiday" role="tab" aria-controls="holiday" aria-selected="false">Destinations</a>
 							  </li>-->
@@ -152,43 +152,46 @@
 		                    </div>
 		                </div>
 		            </div>						
-				<div class="row">
+				<!--	<div class="row">
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
-								<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/packages/Cancun4.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/d1.jpg" alt="">
 								</div>
-								<div class="desc">			
-									<h4>Beach in Cancun</h4>
-									<p>Cancun</p>			
+								<div class="desc">	
+									<a href="#" class="price-btn">$150</a>			
+									<h4>Mountain River</h4>
+									<p>Paraguay</p>			
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
-								<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/packages/jungleMaya.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/d2.jpg" alt="">
 								</div>
-								<div class="desc">		
-									<h4>Jungle Maya</h4>
-									<p>Tulum</p>			
+								<div class="desc">	
+									<a href="#" class="price-btn">$250</a>			
+									<h4>Dream City</h4>
+									<p>Paris</p>			
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
-								<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/packages/xelha.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/d3.jpg" alt="">
 								</div>
-								<div class="desc">			
-									<h4>Xelha</h4>
-									<p>Cancun</p>			
+								<div class="desc">	
+									<a href="#" class="price-btn">$350</a>			
+									<h4>Cloud Mountain</h4>
+									<p>Sri Lanka</p>			
 								</div>
 							</div>
-						</div>											
+						</div>	-->											
 					</div>
 				</div>	
 			</section>
@@ -702,18 +705,18 @@
 								<div class="row">
 									<div class="col">
 										<ul>
-											<li><a href="index.php">Inicio</a></li>
-											<li><a href="about.php">Acerca De</a></li>
-											<li><a href="transfers.php">Traslados</a></li>
-											<li><a href="tours.php">Tours</a></li>
+											<li><a href="#">Inicio</a></li>
+											<li><a href="#">Acerca De</a></li>
+											<li><a href="#">Traslados</a></li>
+											<li><a href="#">Tours</a></li>
 										</ul>
 									</div>
 									<div class="col">
 										<ul>
-											<li><a href="destinations.php">Destinos</a></li>
-											<li><a href="agencias.php">Agencias</a></li>
-											<li><a href="groups.php">Grupos</a></li>
-											<li><a href="contact.php">Contacto</a></li>
+											<li><a href="#">Destinos</a></li>
+											<li><a href="#">Agencias</a></li>
+											<li><a href="#">Grupos</a></li>
+											<li><a href="#">Contacto</a></li>
 										</ul>
 									</div>										
 								</div>							
