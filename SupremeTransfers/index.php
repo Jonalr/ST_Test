@@ -5,7 +5,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="img/favi.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -156,7 +156,7 @@
 		                    </div>
 		                </div>
 		            </div>						
-				<!--	<div class="row">
+					<div class="row">
 						<div class="col-lg-4">
 							<div class="single-destination relative">
 								<div class="thumb relative">
@@ -195,7 +195,7 @@
 									<p>Sri Lanka</p>			
 								</div>
 							</div>
-						</div>	-->											
+						</div>											
 					</div>
 				</div>	
 			</section>
