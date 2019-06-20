@@ -139,7 +139,7 @@
 			<!-- End banner Area -->
 		
 			<!-- Start popular-destination Area -->
-			<section class="popular-destination-area">
+			<section class="popular-destination-area section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
