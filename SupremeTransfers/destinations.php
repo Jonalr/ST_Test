@@ -88,9 +88,59 @@
 			</section>
 			<!-- End banner Area -->	
 
- 
+		<style>
+    figure {
+       margin: 10px;
+       padding: 5px; 
+       line-height: 50%;
+        display: inline-block;
+        position: relative;      
+        overflow: hidden;
+        border-radius: 15px; 
+        background-color: #e1ebed;
+        width: 120px;
+        height: 120px; 
+		line-height: 1em;
+		box-shadow: 0 0 0 1px rgba(68, 68, 68, 0.222);
+    }
+    
+    figcaption {
+        color: black;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        transition: all 0.3s;
+        background: rgba(158, 158, 158, 0.5);
+        position: absolute;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        padding: 10%;
+		font-weight: 700;
+    }
+    figure:hover figcaption {
+        bottom: 10px;
+    } 
+        </style>
+        <div class="container" style="text-align: center; padding: 70px 0 0 0;"> 
+            <div class="row d-flex justify-content-center">
+                <div class="menu-content col-lg-12">                
+                        <div class="row">
+			                <div class="col-md-12 text-center" style="margin-bottom:40px;">
+				                <div class="line-subtitle-1"></div>
+				                <h2 class="h1 home-subtitle-1 text-black">Lorem </h2>
+			                </div>
+			            </div>    
+                    <div class="container-fluid"> 
+                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/1.1.png"><figcaption>Información</figcaption></figure>
+                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/2.1.png"><figcaption>Salud</figcaption></figure>             
+                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/3.1.png"><figcaption>Guias</figcaption></figure>                
+                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/4.1.png"><figcaption>Transporte</figcaption></figure>                        
+                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/5.1.png"><figcaption>Ahorra</figcaption></figure>                                    
+                    </div>
+                </div>
+            </div>
+        </div>
 
-		<div class="container" style="text-align: center;"> 
+		<!--<div class="container" style="text-align: center;"> 
             <div class="row d-flex justify-content-center">
 		    	<div class="menu-content pb-40 col-lg-8">
                 
@@ -121,7 +171,7 @@
                     <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/10.1.png">&nbsp
                 </div>
         	</div>
-		</div>
+		</div>-->
 		
 
 
