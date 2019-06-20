@@ -5,7 +5,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/favi.png">
+		<link rel="shortcut icon" href="img/favicon.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -55,10 +55,10 @@
 			  		</div>			  					
 					</div>
 				</div>
-				<div class="container main-menu">
+				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/logo3.png"   alt="" title="" /></a>
+				        <a href="index.php"><img src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -95,15 +95,11 @@
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 
 							 <li class="nav-item">
-							    <a style="background-color: #003464" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="false">Transfers</a>
+							    <a  style="background-color: #00669f" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="true">Transfers</a>
 							  </li>
 							  <li class="nav-item">
-							    <a style="background-color: #003464" class="nav-link active" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true">Tours</a>
+							    <a style="background-color: #00669f" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="false">Tours</a>
 							  </li>
-							 
-							<!--<li class="nav-item">
-							    <a class="nav-link" id="holiday-tab" data-toggle="tab" href="#holiday" role="tab" aria-controls="holiday" aria-selected="false">Destinations</a>
-							  </li>-->
 							</ul>
 
 
@@ -111,25 +107,27 @@
 							  <div style="background-color: #003464;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							  
 								<form class="form-wrap">
+								<h4 style="color: white;">Tours</h4><br>
 									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
 									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
 									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
 								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-									<a style="background-color: #00b2f865" href="#" class="primary-btn text-uppercase">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
 								</form>
 							  </div>
 							  <div style="background-color: #003464;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
 							 
 								<form class="form-wrap">
+								<h4 style="color: white;">Transfers</h4><br>
 									<input type="text" class="form-control" name="Hotel" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
 									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
-									<a style="background-color: #00b2f865" href="#" class="primary-btn text-uppercase">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
 								</form>							  	
 							  </div>
 							
@@ -139,9 +137,9 @@
 				</div>					
 			</section>
 			<!-- End banner Area -->
-
+		
 			<!-- Start popular-destination Area -->
-			<section class="popular-destination-area section-gap">
+			<section class="popular-destination-area">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
@@ -203,7 +201,7 @@
 			
 
 			<!-- Start price Area -->
-			<section class="price-area section-gap">
+			<section class="price-area">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">

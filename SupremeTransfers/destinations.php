@@ -5,7 +5,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="img/favicon.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -18,8 +18,7 @@
 		<title>Travel</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
+	<!--CSS
 			============================================= -->
 			<link rel="stylesheet" href="css/linearicons.css">
 			<link rel="stylesheet" href="css/font-awesome.min.css">
@@ -51,10 +50,10 @@
 			  		</div>			  					
 					</div>
 				</div>
-				<div class="container main-menu">
+				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/logohome.png"  style="width: 80%; height: 50%;" alt="" title="" /></a>
+				        <a href="index.php"><img src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -88,6 +87,43 @@
 				</div>
 			</section>
 			<!-- End banner Area -->	
+
+ 
+
+		<div class="container" style="text-align: center;"> 
+            <div class="row d-flex justify-content-center">
+		    	<div class="menu-content pb-40 col-lg-8">
+                
+                        <p><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis nesciunt enim facere molestiae, assumenda itaque autem iusto ratione excepturi incidunt nulla quibusdam earum corporis id facilis exercitationem nisi ipsa voluptatibus.</strong></p>
+                        <div class="row">
+			            <div class="col-md-12 text-center" style="margin-bottom:40px;">
+				            <h2 class="h1 home-subtitle-1 text-black">Guia Riviera Maya</h2>
+			            </div>
+			        </div>
+
+                        <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height:  37%;" src="img/iconNew/1.1.png">&nbsp
+                        <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height:  37%;" src="img/iconNew/2.1.png">&nbsp             
+                        <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height:  37%;" src="img/iconNew/3.1.png">&nbsp
+                        <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height:  37%;" src="img/iconNew/4.1.png">&nbsp                         
+                        <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height:  37%;" src="img/iconNew/5.1.png">&nbsp   
+            
+           		</div>
+        	</div>  
+		</div>	
+        <div class="container" style="text-align: center;">
+			<div class="row justify-content-center">
+		    	<div class="menu-content col-lg-8">
+			
+                    <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/6.1.png">&nbsp
+                    <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/7.1.png">&nbsp
+                    <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/8.1.png">&nbsp
+                    <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/9.1.png">&nbsp
+                    <img style="border-radius: 15px; background-color: #e1ebed; width: 15%; height: 100%;" src="img/iconNew/10.1.png">&nbsp
+                </div>
+        	</div>
+		</div>
+		
+
 
 			<!-- Start destinations Area -->
 			<section class="destinations-area section-gap">

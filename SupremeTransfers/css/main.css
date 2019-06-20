@@ -56,7 +56,7 @@ $black			: #222;
 
 ::selection {
 	background-color: #000000;
-	color: #fff;
+	color: #003464;
 }
 
 ::-webkit-input-placeholder {
@@ -1105,6 +1105,7 @@ h6 {
 	color: #1900f8;
 	border: 1px solid #1900f8;
 	background: #fff;
+	
 }
 
 .genric-btn.primary-border {
@@ -2085,12 +2086,13 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 .header-top {
+	background: #003464;
 	font-size: 12px;
 	padding: 6px 0px;
 }
 
 .header-top a {
-	color: #fff;
+	color: #ffffff;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
@@ -2139,11 +2141,11 @@ h6 {
 }
 
 .main-menu {
-	padding-bottom: 20px;
-	padding-top: 20px;
-	background: #003464;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	background: #ffffff;
+	padding-left: 120px;
+	padding-right: 120px;
 }
 
 #header {
@@ -2157,7 +2159,8 @@ h6 {
 
 #header.header-scrolled {
 	transition: all 0.5s;
-	background-color: #003464;
+	background-color: #ffffff;
+	box-shadow: 0 0 1em rgb(0, 0, 0);
 }
 
 #header.header-scrolled .header-top {
@@ -2240,10 +2243,10 @@ h6 {
 	padding: 0 8px 0px 8px;
 	text-decoration: none;
 	display: inline-block;
-	color: #fff;
+	color: #003464;
 	font-weight: 500;
 	font-size: 17px;
-	text-transform: uppercase;
+	text-transform: none;
 	outline: none;
 }
 
@@ -2609,7 +2612,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-right .nav-item a {
-	color: #fff;
+	color: #ffffff;
 }
 
 .banner-right .nav-item:hover a {
@@ -2621,21 +2624,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-right .tab-content {
-	background: #fff;
+	background: rgb(255, 255, 255);
 }
 
 .banner-right .form-wrap {
-	padding: 40px 30px;
+	padding: 30px 30px;
 	text-align: center;
 }
 
 .banner-right .form-wrap .form-control {
-	padding: 0.675rem 0.75rem;
-	font-size: 13px;
+	padding: 0.4rem 0.75rem;
+	font-size: 12px;
 	font-weight: 300;
-	border-radius: 0px;
+	border-radius: 5px;
 	margin-bottom: 10px;
-	border-color: rgb(1, 21, 207);
+	border-color: rgb(255, 255, 255);
 }
 
 .banner-right .form-wrap .form-control:focus {
