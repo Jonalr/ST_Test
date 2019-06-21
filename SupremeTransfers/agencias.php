@@ -59,14 +59,14 @@
 					  <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 							<li><a href="index.php">Inicio</a></li>
-							<li><a href="about.php">Acerca de</a></li>
-							<li><a href="transfers.php">Traslados</a></li>
-							<li><a href="tours.php">Tours</a></li>	
-							<li><a href="destinations.php">Destinos</a></li>
-							<li><a href="agencias.php">Agencias</a></li>
-							<li><a href="groups.php">Grupos</a></li>
-							<li><a href="blog.php">Blog</a></li>	          					          		          
-							<li><a href="contact.php">Contact</a></li>
+				          <li><a href="about.php">Acerca de</a></li>
+						  <li><a href="destinations.php">Destinos</a></li>
+						  <li><a href="transfers.php">Traslados</a></li>
+						  <li><a href="tours.php">Tours</a></li>	
+						  <li><a href="groups.php">Grupos</a></li>
+				          <li><a href="agencias.php">Agencias</a></li>
+				          <li><a href="blog.php">Blog</a></li>	          					          		          
+				          <li><a href="contact.php">Contact</a></li>
 				        </ul>
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
