@@ -130,11 +130,11 @@
 			                </div>
 			            </div>    
                     <div class="container-fluid"> 
-                        <figure><img style="margin: 10px; width: 85px; height: 70px;" src="img/iconNew/1.png"><figcaption>Información</figcaption></figure>
-                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/2.png"><figcaption>Salud</figcaption></figure>             
-                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/3.png"><figcaption>Guias</figcaption></figure>                
-                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/4.png"><figcaption>Transporte</figcaption></figure>                        
-                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/5.png"><figcaption>Ahorra</figcaption></figure>                                    
+                        <figure><img style="margin: 10px; width: 85px; height: 70px;" src="img/icods/a.png"><figcaption>Información</figcaption></figure>
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/icods/b.png"><figcaption>Salud</figcaption></figure>             
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/icods/c.png"><figcaption>Guias</figcaption></figure>                
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/icods/d.png"><figcaption>Transporte</figcaption></figure>                        
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/icods/e.png"><figcaption>Ahorra</figcaption></figure>                                    
                     </div>
                 </div>
             </div>
