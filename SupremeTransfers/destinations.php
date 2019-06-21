@@ -90,34 +90,34 @@
 
 		<style>
     figure {
-       margin: 10px;
-       padding: 5px; 
-       line-height: 50%;
+		margin: 10px;
+		padding: 5px; 
+		line-height: 50%;
         display: inline-block;
         position: relative;      
         overflow: hidden;
         border-radius: 15px; 
-        background-color: #e1ebed;
+        background-color: #f6b726;
         width: 120px;
         height: 120px; 
 		line-height: 1em;
-		box-shadow: 0 0 0 1px rgba(68, 68, 68, 0.222);
+		box-shadow: 15px 13px 18px -11px rgba(0,0,0,0.75);
     }
     
     figcaption {
-        color: black;
+        color: white;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         transition: all 0.3s;
-        background: rgba(158, 158, 158, 0.5);
+		background: #004468ab;
         position: absolute;
         left: 0px;
-        bottom: 0px;
+        bottom: -90px;
         width: 100%;
         padding: 10%;
 		font-weight: 700;
     }
     figure:hover figcaption {
-        bottom: 10px;
+        bottom: 35px;
     } 
         </style>
         <div class="container" style="text-align: center; padding: 70px 0 0 0;"> 
@@ -130,11 +130,11 @@
 			                </div>
 			            </div>    
                     <div class="container-fluid"> 
-                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/1.1.png"><figcaption>Información</figcaption></figure>
-                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/2.1.png"><figcaption>Salud</figcaption></figure>             
-                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/3.1.png"><figcaption>Guias</figcaption></figure>                
-                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/4.1.png"><figcaption>Transporte</figcaption></figure>                        
-                        <figure><img style="width: 100px; height: 100px;" src="img/iconNew/5.1.png"><figcaption>Ahorra</figcaption></figure>                                    
+                        <figure><img style="margin: 10px; width: 85px; height: 70px;" src="img/iconNew/1.png"><figcaption>Información</figcaption></figure>
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/2.png"><figcaption>Salud</figcaption></figure>             
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/3.png"><figcaption>Guias</figcaption></figure>                
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/4.png"><figcaption>Transporte</figcaption></figure>                        
+                        <figure><img style="margin: 10px; width: 90px; height: 70px;" src="img/iconNew/5.png"><figcaption>Ahorra</figcaption></figure>                                    
                     </div>
                 </div>
             </div>
