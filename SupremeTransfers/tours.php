@@ -110,7 +110,110 @@
 			<!-- End about-info Area -->
 		
  <!-----------Galeria---------->	
-	
+<style>
+.section-top{
+	padding: 30px 0 0 0;
+}
+</style>
+			<!-- start reserv Area -->		
+			<div class="container section-top">
+				<div class="row fullscreen align-items-center float-right">
+					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
+							<!--<ul class="nav nav-tabs" id="myTab" role="tablist">
+							  <li class="nav-item">
+							    <a style="background-color: #003464" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true" >Tours</a>
+							  </li>
+							</ul>-->
+							<div class="tab-content" id="myTabContent" style="padding: 15% 0 0 0 ">
+							  <div style="width: 350px; height: 372px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+								<form class="form-wrap">
+									<h3 style="color: white">Tours</h3><br>
+									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
+									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
+									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
+								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
+									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
+								</form>
+							  </div>
+							</div>	
+							<div class="text-center ">
+								<h1>Can we help you?</h1>
+								<p>You can call to 888 888!</p>
+								<img src="img/help.jpg" alt="">
+							</div>
+						</div>
+					</div>		
+				</div>
+
+			<!-- End reserv Area -->
+			<!-- Start hot-deal Area -->
+			<section class="hot-deal-area">
+				<div class="container">
+		            <div class="row d-flex justify-content-left">
+		                <div class="menu-content pb-70 col-lg-12">
+		                    <div class="title text-justify">
+		                        <h1 class="mb-10">Today’s Hot Deals</h1>
+		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
+							</p>
+		                    </div>
+		                </div>
+		            </div>						
+					<div class="row justify-content-left">
+						<div class="col-lg-12 active-hot-deal-carusel">
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/cayack.jpg" alt="">
+								</div>
+								<div class="price-detials">
+				 					<a href="snorkelMayan.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Life the adventure</h4>
+									<p class="text-white">
+										snorkel Mayan
+									</p>
+								</div>								
+							</div>
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/Ruins.jpg" alt="">
+								</div>
+								<div class="price-detials">
+									<a href="Mayan_adventure.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Ancient Architecture</h4>
+									<p class="text-white">
+										Tulum ruins
+									</p>
+								</div>								
+							</div>
+							<div class="single-carusel">
+								<div class="thumb relative">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/buceo.jpg" alt="">
+								</div>
+								<div class="price-detials">
+									<a href="xel-ha.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
+								<div class="details">
+									<h4 class="text-white">Diving</h4>
+									<p class="text-white">
+										Xel-Ha
+									</p>
+								</div>								
+							</div>														
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End hot-deal Area -->
  			<section class="Tours section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
@@ -290,8 +393,10 @@
 			</section>
 			
 			<!-----------End Galeria---------->	
-<!-- Start price Area -->
-<section class="price-area section-gap">
+			
+
+			<!-- Start price Area -->
+			<section class="price-area section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">

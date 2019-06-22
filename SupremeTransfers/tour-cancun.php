@@ -1,4 +1,4 @@
-<?php?>
+<?php ?>
 <!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
@@ -15,7 +15,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Travel</title>
+		<title>Tours</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -32,20 +32,20 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		<header id="header">
+			<header id="header">
 				<div class="header-top">
 					<div class="container">
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
-			  					<li><a href="#">+52(998) 217 2958 </a></li>
+								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
+							
 			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
-								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
-								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-twitter"></i></a>
 								
 							</div>
 			  			</div>
@@ -59,7 +59,7 @@
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li><a href="index.php">Inicio</a></li>
+				            <li><a href="index.php">Inicio</a></li>
 				          <li><a href="about.php">Acerca de</a></li>
 						  <li><a href="transfers.php">Traslados</a></li>
 						  <li><a href="tours.php">Tours</a></li>	
@@ -74,7 +74,7 @@
 				</div>
 			</header><!-- #header -->
 			
-
+			  
 			<!-- start banner Area -->
 			<section class="about-banner relative">
 				<div class="overlay overlay-bg"></div>
@@ -82,115 +82,316 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Cancún				
+								Cancun (Interior tours)				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="transfers.php"> Traslados</a></p>
+							<p class="text-white link-nav"><a href="index.php">Inicio</a>  <span class="lnr lnr-arrow-right"></span>  <a href="tours.php"> Tours</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
 
+		
+ <!-----------Galeria---------->	
+<style>
+.section-top{
+	padding: 30px 0 0 0;
+}
+</style>
+			<!-- start reserv Area -->		
+			<div class="container section-top">
+				<div class="row fullscreen align-items-center float-right">
+					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
+							<!--<ul class="nav nav-tabs" id="myTab" role="tablist">
+							  <li class="nav-item">
+							    <a style="background-color: #003464" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true" >Tours</a>
+							  </li>
+							</ul>-->
+							<div class="tab-content" id="myTabContent" style="padding: 15% 0 0 0 ">
+							  <div style="width: 350px; height: 372px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+								<form class="form-wrap">
+									<h3 style="color: white">Tours</h3><br>
+									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
+									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
+									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
+								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
+									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
+								</form>
+							  </div>
+							</div>	
+							<div class="text-center ">
+								<h1>Can we help you?</h1>
+								<p>You can call to 888 888!</p>
+								<img src="img/help.jpg" alt="">
+							</div>
+						</div>
+					</div>		
+				</div>
+
+			<!-- End reserv Area -->
 			<!-- Start hot-deal Area -->
-			<section class="hot-deal-area section-gap">
+			<section class="hot-deal-area">
 				<div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-8">
+		            <div class="row d-flex justify-content-left">
+		                <div class="menu-content pb-70 col-lg-12">
 		                    <div class="title text-justify">
-		                        <h1 class="mb-10 text-center">The place more visited of Cancun</h1>
-		                        <p>We all live in an age that belongs to the young at heart. There is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tourLife that is becoming extremely fast, day to.</p>
+		                        <h1 class="mb-10">Today’s Hot Deals</h1>
+		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
+							</p>
 		                    </div>
 		                </div>
 		            </div>						
-					<div class="row justify-content-center">
-						<div class="col-lg-10 active-hot-deal-carusel">
+					<div class="row justify-content-left">
+						<div class="col-lg-12 active-hot-deal-carusel">
 							<div class="single-carusel">
 								<div class="thumb relative">
-									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/cayack.jpg" alt="">
 								</div>
-								<!--<div class="price-detials">
-									<a href="#" class="price-btn">Starting From <span>$250</span></a>
-								</div>-->
+								<div class="price-detials">
+				 					<a href="snorkelMayan.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
 								<div class="details">
-									<h4 class="text-white">Adventure in Cancun</h4>
+									<h4 class="text-white">Life the adventure</h4>
 									<p class="text-white">
-										Cancun, Quintana Roo
+										snorkel Mayan
 									</p>
 								</div>								
 							</div>
 							<div class="single-carusel">
 								<div class="thumb relative">
-									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun2.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/Ruins.jpg" alt="">
 								</div>
-								<!--<div class="price-detials">
-									<a href="#" class="price-btn">Starting From <span>$250</span></a>
-								</div>-->
+								<div class="price-detials">
+									<a href="Mayan_adventure.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
 								<div class="details">
-									<h4 class="text-white">Adventure in Cancun</h4>
+									<h4 class="text-white">Ancient Architecture</h4>
 									<p class="text-white">
-										Cancun, Quintana Roo
+										Tulum ruins
 									</p>
 								</div>								
 							</div>
 							<div class="single-carusel">
 								<div class="thumb relative">
-									<!--<div class="overlay overlay-bg"></div>-->
-									<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
+									<div class="overlay overlay-bg"></div>
+									<img class="img-fluid" src="img/packages/buceo.jpg" alt="">
 								</div>
-								<!--<div class="price-detials">
-									<a href="#" class="price-btn">Starting From <span>$250</span></a>
-								</div>-->
+								<div class="price-detials">
+									<a href="xel-ha.php" class="price-btn"><strong>See more!</strong></a>
+								</div>
 								<div class="details">
-									<h4 class="text-white">Adventure in Cancun</h4>
+									<h4 class="text-white">Diving</h4>
 									<p class="text-white">
-										Cancun, Quintana Roo
+										Xel-Ha
 									</p>
 								</div>								
-							</div>													
+							</div>														
 						</div>
 					</div>
 				</div>	
 			</section>
 			<!-- End hot-deal Area -->
-            <section class="Tours">
+ 			<section class="Tours section-gap">
 				<div class="container">
 		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-6">
-		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
-		                        <h1 class="mb-10 text-center">Cancún</h1>
+		                <div class="menu-content pb-70 col-lg-8">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">Our Tours</h1>
 		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								ur
-								</p>
-		                    </div>
-						</div>
-						<div class="menu-content pb-70 col-lg-6">
-		                    <div class="title text-justify">
-							<img class="img-fluid" src="img/packages/cancun3.jpg" alt="">
-		                        <h1 class="mb-10 text-center">Cancún</h1>
-		                        <p>There is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tours There is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								is area of tours is area of tours is area of tours is area of touris area of tours is area of tours is area of tours is area of tours
-								ur
+								is area of tours is area of tours is area of tours is area of tours
 								</p>
 		                    </div>
 		                </div>
-					</div>	
-				</div>
+		            </div>					
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Yal-Ku-Lagoon-Caribbeanmaya-1.jpg" alt="">					
+								</div>
+								<a href="tour-cancun.php">
+									<h4>Cancun</h4>
+								</a>
+								<p>
+									The wonderful site of your dreams.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/toursitos/cenote..jpg" alt="">					
+								</div>
+								<a href="luum_balaam.php">
+									<h4>Luum Balam</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/toursitos/tiburon.jpg" alt="">					
+								</div>
+								<a href="Shark_swimming.php">
+									<h4>Shark Swiming</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
+								</div>
+								<a href="mayan_jungle.php">
+									<h4>Mayan Jungle</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>	
+						<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/mayanadventure.jpg" alt="">					
+								</div>
+								<a href="mayan_adventure.php">
+									<h4>Mayan adveture</h4>
+								</a>
+								<p>
+									The wonderful place in Mexico.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/toursitos/xelha.jpg" alt="">					
+								</div>
+								<a href="xel-ha.php">
+									<h4>Xel-há</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/toursitos/piramide.jpg" alt="">					
+								</div>
+								<a href="chichen.php">
+									<h4>Chichen Itzá</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
+								</div>
+								<a href="grancenote.php">
+									<h4>Gran cenote</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>	
+						<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/Viajes-a-Chichen-Itza.jpg" alt="">					
+								</div>
+								<a href="chichen.php">
+									<h4>Chichen</h4>
+								</a>
+								<p>
+									Piramide
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/tour-jungla-maya-snorkel.jpg" alt="">					
+								</div>
+								<a href="snorkelMayan.php">
+									<h4>snorkel Mayan jungle</h4>
+								</a>
+								<p>
+									I was always somebody who felt quite sorry for myself, what I had not got compared.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/gra-cenote.jpg" alt="">					
+								</div>
+								<a href="granCenote.php">
+									<h4>Gran cenote</h4>
+								</a>
+								<p>
+									The following article covers a topic that has recently moved to center stage–at least it seems.
+								</p>
+							</div>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<div class="single-other-issue">
+								<div class="thumb">
+									<img class="img-fluid" src="img/tours/toursitos/kayak-xenotes.jpg" alt="">					
+								</div>
+								<a href="xenote.php">
+									<h4>Xenotes</h4>
+								</a>
+								<p>
+									There are many kinds of narratives and organizing principles. Science is driven by evidence.
+								</p>
+							</div>
+						</div>																		
+					</div>																	
+					</div>																	
+					</div>
+
+				</div>	
+			</section>
 			
+			<!-----------End Galeria---------->	
+			
+
+			<!-- Start price Area -->
+			<section class="price-area section-gap">
+				<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">We Provide Affordable Prices</h1>
+		                        <p>Well educated, intellectual people, especially scientists at all times demonstrate considerably.</p>
+		                    </div>
+		                </div>
+		            </div>		
+				</div>
+			</section>
+	
 			<!-- start footer Area -->		
 			<footer class="footer-area section-gap">
 				<div class="container">
@@ -265,7 +466,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					</div>
 				</div>
 			</footer>
-			<!-- End footer Area -->
+			<!-- End footer Area -->	
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="js/popper.min.js"></script>
