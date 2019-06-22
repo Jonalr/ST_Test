@@ -2302,7 +2302,7 @@ h6 {
 }
 
 #mobile-nav-toggle i {
-	color: #fff;
+	color: rgb(0, 8, 114);
 	font-weight: 900;
 }
 
@@ -3059,6 +3059,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner .overlay-bg {
+	background: rgba(4, 9, 30, 0.4);
+}
+
+.ban-traslado {
+	background: url(../img/slide-transfers-principal.jpg) center;
+	background-size: cover;
+}
+
+.about-intraslados .overlay-bg {
 	background: rgba(4, 9, 30, 0.4);
 }
 
@@ -4279,7 +4288,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Footer Styles
 /* =================================== */
 .footer-area {
-	background: #04091e;
+	background: linear-gradient(135deg, #3456df, #21a9af);
 	padding-top: 100px;
 }
 
@@ -4288,7 +4297,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .footer-nav li a {
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 
 .footer-area .footer-nav li a:hover {
@@ -4362,7 +4371,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area h6 {
 	text-transform: uppercase;
-	color: #fff;
+	color: rgb(255, 255, 255);
 	margin-bottom: 25px;
 	font-size: 16px;
 	font-weight: 600;
@@ -4483,7 +4492,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-footer-widget ul li a {
-	color: #777777;
+	color: #e0ee1d;
+	
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
