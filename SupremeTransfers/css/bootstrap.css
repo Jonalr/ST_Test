@@ -5961,7 +5961,7 @@ button.bg-dark:focus {
   justify-content: flex-end !important;
 }
 
-.justify-content-center {
+.justify-content-center { 
   justify-content: center !important;
 }
 
