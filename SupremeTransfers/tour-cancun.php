@@ -55,7 +55,7 @@
 				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
+				        <a href="index.php"><img class="img-fluid"src="img/LogoST.png" style="width: 120px; height: 65px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -90,11 +90,52 @@
 				</div>
 			</section>
 			<!-- End banner Area -->	
-
-				<!-- start reserv Area -->		
-			<div class="container" style="padding: 20px;">
-				<div class="row fullscreen align-items-center float-left">
-					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
+			
+				<!-- Start motor Area -->	
+				<div class="container">
+					<div class="row fullscreen align-items-center justify-content-between">
+						<div class="col-lg-6 col-md-6 banner-left text-justify">
+						<h2 class="text-center">Cancun details</h2>
+		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
+								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
+								
+								<br><br>
+								<h5>Life that is becoming extremely fastlive</h5>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure error quas ipsa laborum est pariatur dolore quaerat animi provident nobis exercitationem eaque nihil facere sapiente laudantium fugiat soluta, omnis nam.</p>
+							
+								live in We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
+								</p>
+							
+						</div>
+						
+						<div class="col-lg-4 col-md-6 banner-right">
+							<div class="tab-content" id="myTabContent">
+								<div style="width: 350px; height: 400px; background-color: #003470; box-shadow: 5px 5px 15px 5px; border-radius: 15px;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+									<form class="form-wrap">
+										<h3 style="color: white">Tours</h3><br>
+										<input tvype="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
+										<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
+										<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
+										<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
+										<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
+										<a style="margin-bottom: 10px; background-color: #00b2f865; border-radius: 5px;" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
+									</form>				
+								</div>	
+							 </div>
+						</div>
+					</div>
+				
+				</div>
+	
+			<!--<div class="container" style="padding: 20px;">
+				<div class="row fullscreen  align-items-center">
+					<div class="col-lg-6 col-md-6 banner-right">
+							<h6 class="text-black">Away from your routines</h6>
+							
+							<p class="text-black">
+								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
+							</p>
 						<div style="width: 350px; height: 400px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							<form class="form-wrap">
 								<h3 style="color: white">Tours</h3><br>
@@ -109,15 +150,16 @@
 					</div>
 				</div>		
 			</div>
-
-			<!-- End reserv Area -->
-			<!-- Start motor Area -->
-			<section class="hot-deal-area" style="padding:20px;">
+			</div>-->
+		
+			<!-- End motor Area -->
+			
+			<!--<section class="hot-deal-area" style="padding:20px;">
 				<div class="container">
 		            <div class="row d-flex">
 		                <div class="menu-content pb-70 col-lg-12">
 		                    <div class="title text-justify">
-		                        <h1 class="mb-10">Cancun details</h1>
+		                        <h1 class="mb-6">Cancun details</h1>
 		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
 								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
 								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
@@ -135,21 +177,16 @@
 		                </div>
 		            </div>		
 				</div>	
-			</section>
-			<!-- End motor Area -->
-			<!--Esta sería el area en donde apareceria el precio del tour, ya que el cliente haya especificado paxs etc.-->
-				<div class="container alert alert-success" role="alert">
-					Actividades: lorem, ipsum, dolor. <br>
-					Precio: $0.00
-								
-				</div>
-			<!--End--->
+			</section>-->
+			
+			
 			<!--Banner de interior de tour-->
-			<section class="hot-deal-area">
-				<div class="container" style="text-align: center; padding: 70px 0 0 0;">	
+			
+				<div class="container" style="text-align: center; padding: 70px 0 0 0;">
+				<div class="tab-content" id="myTabContent">
 				<h1>Galeria de (Este tour)</h1>			
 					<div class="row d-flex justify-content-center">
-						<div class="col-lg-8 active-hot-deal-carusel">
+						<div class="col-lg-8 col-md-12 active-hot-deal-carusel">
 							<div class="single-carusel">
 								<div class="thumb relative">
 									<img class="img-fluid" src="img/tours/Cenotes-en-Yucatan.jpg" alt="">
@@ -167,8 +204,8 @@
 							</div>														
 						</div>
 					</div>
-				</div>	
-			</section>
+				</div></div>	
+			
 
 			<!--End banner de interior de tour-->
 			<!--Estoy probando tarjetas con recomendaciones. by ABY--->
