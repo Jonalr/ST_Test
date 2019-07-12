@@ -1,5 +1,6 @@
 <?php ?>
 <!DOCTYPE html>
+<?php include 'includes/setup.inc.php'; ?>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
