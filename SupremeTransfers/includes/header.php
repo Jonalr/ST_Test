@@ -7,7 +7,7 @@
 			  					<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
 			  					<li><a href="#">+52(998) 217 2958 </a></li>
 			  				</ul>			
-			  			</div>
+ 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
