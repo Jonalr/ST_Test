@@ -1,6 +1,6 @@
-<?php?>
+<?php include 'includes/setup.inc.php'; ?>
 <!DOCTYPE html>
-	<html lang="zxx" class="no-js">
+	<html  lang="<?php echo $lang; ?>">
 	<head>
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -35,47 +35,7 @@
 			<style>
 			 body { background-color: #f8f9fa; }
 			</style>
-			<header id="header">
-				<div class="header-top">
-					<div class="container">
-			  		<div class="row align-items-center">
-			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
-			  				<ul>
-			  					<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
-			  					<li><a href="#">+52(998) 217 2958 </a></li>
-			  				</ul>			
-			  			</div>
-			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
-							<div class="header-social">
-								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
-								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
-								
-							</div>
-			  			</div>
-			  		</div>			  					
-					</div>
-				</div>
-				<div class="main-menu">
-					<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.php"><img src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
-				      </div>
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				          <li><a href="index.php">Inicio</a></li>
-				          <li><a href="about.php">Acerca de</a></li>
-						  <li><a href="destinations.php">Destinos</a></li>
-						  <li><a href="transfers.php">Traslados</a></li>
-						  <li><a href="tours.php">Tours</a></li>	
-						  <li><a href="groups.php">Grupos</a></li>
-				          <li><a href="agencias.php">Agencias</a></li>
-				          <li><a href="blog.php">Blog</a></li>	          					          		          
-				          <li><a href="contact.php">Contact</a></li>
-				        </ul>
-				      </nav><!-- #nav-menu-container -->					      		  
-					</div>
-				</div>
-			</header><!-- #header -->
+			<?php include 'includes/header.php' ?>
 			
 			<!-- start banner Area -->
 			<section class="banner-area relative">
@@ -107,7 +67,7 @@
 							  <div style="background-color: #003464;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							  
 								<form class="form-wrap">
-								<h4 style="color: white;">Tours</h4><br>
+								<h4 style="color: white;"><?=MOTOR_TOUR?></h4><br>
 									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
 									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
 									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
@@ -120,13 +80,13 @@
 							  <div style="background-color: #003464;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
 							 
 								<form class="form-wrap">
-								<h4 style="color: white;">Transfers</h4><br>
-									<input type="text" class="form-control" name="Hotel" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
+								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
+									<input type="text" class="form-control" name="<?=MY_CART?>" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
 									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="dddsfdf " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Cfsdsdfdsf '">						
 									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
 								</form>							  	
 							  </div>
@@ -144,7 +104,7 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
-		                        <h1 class="mb-10">Popular Destinations</h1>
+		                        <h1 class="mb-10"><?=POPULAR_DESTI?></h1>
 		                        <p> We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day. 
 									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day. 
 									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day.
@@ -684,82 +644,8 @@
 				</div>	
 			</section>
 			<!-- End recent-blog Area -->			
-
-			<!-- start footer Area -->		
-			<footer class="footer-area section-gap">
-				<div class="container">
-
-					<div class="row">
-						<div class="col-lg-3  col-md-6 col-sm-6">
-							<div class="single-footer-widget">
-								<h6>CONTACTANOS</h6>
-								<ul>
-								<li>Cancun, Quintana Roo</li>
-								<li>Días Laborales: Mon-Sun</li>
-								<li>Horarios Laborales: 9:00AM - 9:00PM</li>
-								<li>Télefono de Contacto: (+52) 998-705-4593</li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6">
-							<div class="single-footer-widget">
-								<h6>Navigation Links</h6>
-								<div class="row">
-									<div class="col">
-										<ul>
-											<li><a href="#">Inicio</a></li>
-											<li><a href="#">Acerca De</a></li>
-											<li><a href="#">Traslados</a></li>
-											<li><a href="#">Tours</a></li>
-										</ul>
-									</div>
-									<div class="col">
-										<ul>
-											<li><a href="#">Destinos</a></li>
-											<li><a href="#">Agencias</a></li>
-											<li><a href="#">Grupos</a></li>
-											<li><a href="#">Contacto</a></li>
-										</ul>
-									</div>										
-								</div>							
-							</div>
-						</div>							
-						<div class="col-lg-3  col-md-6 col-sm-6">
-							<div class="single-footer-widget">
-								<h6>RECURSOS ADICIONALES</h6>
-								<div class="col">
-										<ul>
-											<li><a href="#">Preguntas Frecuentes</a></li>
-											<li><a href="#">Terminos y Condiciones</a></li>
-											<li><a href="#">Politicas de Privacidad</a></li>
-											
-										</ul>
-									</div>
-							</div>
-						</div>
-						<div class="col-lg-3  col-md-6 col-sm-6">
-							<div class="single-footer-widget mail-chimp">
-								
-								<ul class="instafeed d-flex flex-wrap">
-									<img src="img/logo-mexico.png" style="width: 65%; height: 50%;" alt="">
-									
-								</ul>
-							</div>
-						</div>						
-					</div>
-
-					<div class="row footer-bottom d-flex justify-content-between align-items-center">
-						<p class="col-lg-8 col-sm-12 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="">Students UTCancun</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-						<div class="col-lg-4 col-sm-12 footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-						</div>
-					</div>
-				</div>
-			</footer>
-			<!-- End footer Area -->	
+			<?php include 'includes/myscripts.php'; ?>
+			<?php include 'includes/footer.php' ?>
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="js/popper.min.js"></script>

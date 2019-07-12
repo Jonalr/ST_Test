@@ -2298,12 +2298,13 @@ h6 {
 
 /* Mobile Nav Toggle */
 #mobile-nav-toggle {
-	float: right;
+	/*float: right;*/
+	padding: 0 0 0 150%;
 	z-index: 999;
-	margin-top: 4px;
+	margin-top: 0px;
 	border: 0;
 	background: none;
-	font-size: 24px;
+	font-size: 27px;
 	display: none;
 	transition: all 0.4s;
 	outline: none;
@@ -2332,17 +2333,19 @@ h6 {
 	padding-top: 18px;
 	bottom: 0;
 	z-index: 998;
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(7, 0, 48, 0.8);
 	left: -260px;
 	width: 260px;
 	overflow-y: auto;
 	transition: 0.4s;
+
 }
 
 #mobile-nav ul {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	
 }
 
 #mobile-nav ul li {
@@ -2352,7 +2355,7 @@ h6 {
 #mobile-nav ul li a {
 	color: #fff;
 	font-size: 13px;
-	text-transform: uppercase;
+	text-transform: unset;
 	overflow: hidden;
 	padding: 10px 22px 10px 15px;
 	position: relative;
@@ -2385,7 +2388,8 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children li a {
-	text-transform: none;
+	text-transform: 
+	none;
 }
 
 #mobile-nav ul .menu-item-active {
@@ -2399,22 +2403,27 @@ h6 {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(0, 0, 0, 0.527);
 	display: none;
+	cursor: pointer;
 }
 
 /* Mobile Nav body classes */
 body.mobile-nav-active {
 	overflow: hidden;
+	
 }
 
 body.mobile-nav-active #mobile-nav {
 	left: 0;
+	
 }
 
 body.mobile-nav-active #mobile-nav-toggle {
 	color: #fff;
 }
+
+/*Esconder en modo responsivo logo de supreme*/
 
 /* =================================== */
 /*  Homepage Styles
