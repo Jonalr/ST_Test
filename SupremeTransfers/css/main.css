@@ -2258,7 +2258,9 @@ h6 {
 	text-transform: none;
 	outline: none;
 }
-
+.nav-menu .logo_head{
+	visibility: hidden;
+}
 .nav-menu li:hover > a {
 	color: #ddcd3b;
 }
@@ -2298,8 +2300,8 @@ h6 {
 
 /* Mobile Nav Toggle */
 #mobile-nav-toggle {
-	/*float: right;*/
-	padding: 0 0 0 150%;
+	float: right;
+	/*padding: 0 0 0 150%;*/
 	z-index: 999;
 	margin-top: 0px;
 	border: 0;
@@ -2312,6 +2314,7 @@ h6 {
 
 }
 
+
 #mobile-nav-toggle i {
 	color: rgb(0, 8, 114);
 	font-weight: 900;
@@ -2321,6 +2324,7 @@ h6 {
 	#mobile-nav-toggle {
 		display: inline;
 	}
+	
 	#nav-menu-container {
 		display: none;
 	}
@@ -2338,7 +2342,7 @@ h6 {
 	width: 260px;
 	overflow-y: auto;
 	transition: 0.4s;
-
+	image-orientation: none;
 }
 
 #mobile-nav ul {
@@ -2365,6 +2369,7 @@ h6 {
 	outline: none;
 	font-weight: 400;
 }
+
 
 #mobile-nav ul li a:hover {
 	color: #fff;
@@ -2423,7 +2428,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 	color: #fff;
 }
 
-/*Esconder en modo responsivo logo de supreme*/
 
 /* =================================== */
 /*  Homepage Styles

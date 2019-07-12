@@ -60,14 +60,8 @@
 							<img class="img-fluid" src="img/packages/about.jpg">
 						</div>
 						<div class="col-lg-6 info-right">
-							<h1>Who We Are?</h1>
-							<p>
-								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, 
-								consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-								exercitation ullamco. focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. 
-								Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-								
-							</p>
+							<h1><?=TITLE_ABOUT?></h1>
+							<p><?=INFO_ABOUT?></p>
 						</div>
 					</div>
 				</div>	

@@ -95,10 +95,8 @@
 		            <div class="row d-flex justify-content-center">
 		                <div class="menu-content pb-70 col-lg-12">
 		                    <div class="title text-justify">
-		                        <h1 class="mb-10">Traslados privados de Cancun y riviera maya</h1>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus unde dolorum facere aliquam aperiam, earum dolore praesentium assumenda. Illum fugiat odio accusamus, dignissimos laboriosam enim nemo corporis reprehenderit ipsum. Sequi?
-									Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo soluta fuga necessitatibus, quos tempora fugiat perspiciatis sed, tenetur nulla aperiam odit nesciunt ea expedita facere aut. Vel unde sapiente cupiditate!
-								</p>
+		                        <h1 class="mb-10"><?=TITLE_TRANSFERS?></h1>
+		                        <p><?=INFO_TRANSFERS?></p>
 		                    </div>
 		                </div>
 		            </div>						

@@ -644,7 +644,7 @@
 				</div>	
 			</section>
 			<!-- End recent-blog Area -->			
-			<?php include 'includes/myscripts.php'; ?>
+			
 			<?php include 'includes/footer.php' ?>
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
