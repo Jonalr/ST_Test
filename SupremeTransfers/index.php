@@ -64,7 +64,7 @@
 
 
 							<div class="tab-content" id="myTabContent">
-							  <div style="background-color: #003464;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+							  <div style="background-color: #11245f;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							  
 								<form class="form-wrap">
 								<h4 style="color: white;"><?=MOTOR_TOUR?></h4><br>
@@ -74,10 +74,10 @@
 								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#ac122a'" onMouseout="this.style.background='#ac122a'">Get prices</a>									
 								</form>
 							  </div>
-							  <div style="background-color: #003464;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
+							  <div style="background-color: #11245f;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
 							 
 								<form class="form-wrap">
 								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
@@ -87,7 +87,7 @@
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="dddsfdf " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Cfsdsdfdsf '">						
-									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#ac122a'" onMouseout="this.style.background='#ac122a'">Get prices</a>									
 								</form>							  	
 							  </div>
 							

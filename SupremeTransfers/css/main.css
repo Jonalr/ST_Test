@@ -55,8 +55,8 @@ $black			: #222;
 }
 
 ::selection {
-	background-color: #000000;
-	color: #003464;
+	background-color: #1317ff60;
+	color: #11245f;
 }
 
 ::-webkit-input-placeholder {
@@ -2094,7 +2094,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 .header-top {
-	background: #003464;
+	background: #11245f;
 	font-size: 12px;
 	padding: 6px 0px;
 }
@@ -2147,10 +2147,9 @@ h6 {
 	background: #004ff8;
 	padding: 9px 26px;
 }
-
 .main-menu {
-	padding-bottom: 5px;
-	padding-top: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
 	background: #ffffff;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -2254,7 +2253,7 @@ h6 {
 	padding: 0 8px 0px 8px;
 	text-decoration: none;
 	display: inline-block;
-	color: #003464;
+	color: #ac122a;
 	font-weight: 500;
 	font-size: 17px;
 	text-transform: none;
@@ -2262,7 +2261,7 @@ h6 {
 }
 
 .nav-menu li:hover > a {
-	color: #ddcd3b;
+	color: #11245f;
 }
 
 .nav-menu > li {
@@ -2449,7 +2448,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-	background: #1900f8;
+	background: #11245f;
 	line-height: 42px;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -2503,11 +2502,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .primary-btn.white:hover {
 	background: #fff;
-	color: #1900f8;
+	color: #11245f;
 }
 
 .primary-btn.white:hover span {
-	color: #1900f8;
+	color: #11245f;
 }
 
 .primary-btn.wh {
@@ -2607,7 +2606,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-left .primary-btn {
-	background: #1900f8;
+	background: #11245f;
 }
 
 .banner-left .primary-btn:hover {
@@ -2947,7 +2946,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .home-about-area .home-about-left .primary-btn:hover {
-	background: #1900f8;
+	background: #11245f;
 }
 
 @media (max-width: 991px) {
@@ -3556,7 +3555,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .post-content-area .single-post .primary-btn:hover {
-	background: #1900f8 !important;
+	background: #11245f !important;
 	color: #fff !important;
 }
 
@@ -4217,8 +4216,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .comment-form .primary-btn:hover {
 	background: transparent;
-	border-color: #1900f8 !important;
-	color: #1900f8 !important;
+	border-color:#11245f !important;
+	color: #11245f !important;
 }
 
 /*============ End Blog Single Styles  =============*/
@@ -4328,11 +4327,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .footer-nav li a:hover {
-	color: #1900f8;
+	color: #11245f;
 }
 
 .footer-area .primary-btn {
-	background-color: #1900f8;
+	background-color: #11245f;
 	line-height: 42px;
 	padding-left: 30px;
 	padding-right: 60px;
@@ -4368,7 +4367,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .primary-btn:hover {
-	background-color: #1900f8;
+	background-color: #11245f;
 	box-shadow: none;
 	color: #fff;
 }
@@ -4389,11 +4388,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area .primary-btn.white:hover {
 	background: #fff;
-	color: #1900f8;
+	color: #11245f;
 }
 
 .footer-area .primary-btn.white:hover span {
-	color: #1900f8;
+	color: #11245f;
 }
 
 .footer-area h6 {
