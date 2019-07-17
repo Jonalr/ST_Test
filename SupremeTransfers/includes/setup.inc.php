@@ -18,44 +18,6 @@ if(preg_match('/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|c
   $mobile=0;
 }
 
-// Coneccion a la base de datos
-function getConnected($host,$user,$pass,$db) {
-
-   $mysqli = new mysqli($host, $user, $pass, $db);
-
-   if($mysqli->connect_error) 
-     die('Connect Error (' . mysqli_connect_errno() . ') '. mysqli_connect_error());
-
-   return $mysqli;
-}
-$mysqli = getConnected('68.66.216.43','traveluu_usuario','MMK13be2SC!','traveluu_base');
-
-//Inicializacion de Parámetros
-$fecha_log=date('Y-m-d',time()-18000); $hora_log=date('H:i',time()-18000);
-$user_ip=$_SERVER['REMOTE_ADDR'];
-$length = 120;
-if(!isset($_SESSION['cookie'])) { 
-    $hash_string = substr(str_shuffle(md5(time())),0,$length);
-    $_SESSION['cookie']=$hash_string;
-    $sesion_usuario=$hash_string;
-}
-else { $sesion_usuario=$_SESSION['cookie']; }
-
-$PATH="https://localhost/Traveluum/";
-$WEB="https://localhost/Traveluum/";
-$site_name="Travelu'um - We travel your emotions";
-
-function generateRandomString($length) {
-    $length=6;
-    $characters = '0123456789';
-    $charactersLength = strlen($characters);
-    $randomString = '';
-    for ($i = 0; $i < $length; $i++) {
-        $randomString .= $characters[rand(0, $charactersLength - 1)];
-    }
-    return $randomString;
-}
-
 /* Funcion de Operaciones con Fechas */
    function dateadd($operacion, $date, $dd=0, $mm=0, $yy=0, $hh=0, $mn=0, $ss=0){ //Recibe el tipo de operación, la fecha, dias, meses, años, horas, minutos, segundos a sumar o restar.
    if($operacion=="resta"){
