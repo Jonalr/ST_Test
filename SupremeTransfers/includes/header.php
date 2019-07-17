@@ -23,8 +23,8 @@
 				</div>
 				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo" class="hidden-xs">
-				        <a href="index.php"><img class="logo_head" src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
+				      <div id="logo">
+				        <a href="index.php"><img class="img"src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
