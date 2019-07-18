@@ -55,16 +55,16 @@
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 
 							 <li class="nav-item">
-							    <a  style="background-color: #00669f" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="true">Transfers</a>
+							    <a  style="background-color: #646569" onMouseover="this.style.background='rgb(167, 167, 167)'" onMouseout="this.style.background='#646569'" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="true">Transfers</a>
 							  </li>
 							  <li class="nav-item">
-							    <a style="background-color: #00669f" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="false">Tours</a>
+							    <a style="background-color: #646569" onMouseover="this.style.background='rgb(167, 167, 167)'" onMouseout="this.style.background='#646569'" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="false">Tours</a>
 							  </li>
 							</ul>
 
 
 							<div class="tab-content" id="myTabContent">
-							  <div style="background-color: #11245f;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+							  <div style="background-color: #13235B;" class="tab-pane fade" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							  
 								<form class="form-wrap">
 								<h4 style="color: white;"><?=MOTOR_TOUR?></h4><br>
@@ -87,7 +87,7 @@
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="dddsfdf " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Cfsdsdfdsf '">						
-									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#ac122a'" onMouseout="this.style.background='#ac122a'">Get prices</a>									
+									<a style="background-color: #ac162c" href="#" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
 								</form>							  	
 							  </div>
 							
@@ -491,159 +491,7 @@
 				</div>	
 			</section>
 			<!-- End home-about Area -->
-			
-	
-			<!-- Start blog Area -->
-			<section class="recent-blog-area section-gap">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-9">
-							<div class="title text-center">
-								<h1 class="mb-10">Latest from Our Blog</h1>
-								<p>With the exception of Nietzsche, no other madman has contributed so much to human sanity as has.</p>
-							</div>
-						</div>
-					</div>							
-					<div class="row">
-						<div class="active-recent-blog-carusel">
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b1.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">Low Cost Advertising</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b2.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">Creative Outdoor Ads</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b3.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">It's Classified How To Utilize Free</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>	
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b1.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">Low Cost Advertising</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b2.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">Creative Outdoor Ads</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>
-							<div class="single-recent-blog-post item">
-								<div class="thumb">
-									<img class="img-fluid" src="img/b3.jpg" alt="">
-								</div>
-								<div class="details">
-									<div class="tags">
-										<ul>
-											<li>
-												<a href="#">Travel</a>
-											</li>
-											<li>
-												<a href="#">Life Style</a>
-											</li>											
-										</ul>
-									</div>
-									<a href="#"><h4 class="title">It's Classified How To Utilize Free</h4></a>
-									<p>
-										Acres of Diamonds… you’ve read the famous story, or at least had it related to you. A farmer.
-									</p>
-									<h6 class="date">31st January,2018</h6>
-								</div>	
-							</div>														
 
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End recent-blog Area -->			
 			
 			<?php include 'includes/footer.php' ?>
 

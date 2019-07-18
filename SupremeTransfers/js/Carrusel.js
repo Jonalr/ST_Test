@@ -12,5 +12,6 @@ $('.post-wrapper').slick({
     autoplaySpeed: 2000,
     nextArrow: $('.next'),
     prevArrow: $('.prev'),
+    
   });
 });   

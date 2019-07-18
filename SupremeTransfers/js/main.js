@@ -97,10 +97,9 @@ $(document).ready(function() {
             items: 3,
             loop: true,
             margin: 30,
-            dots: true,
-            autoplayHoverPause: true, 
-            smartSpeed:500,               
+            dots: true,                        
             autoplay: true,
+            autoplaySpeed: 2000,    
             responsive: {
                 0: {
                     items: 1
@@ -113,6 +112,28 @@ $(document).ready(function() {
                 },
                 961: {
                     items: 3,
+                }
+            }
+        }); 
+        $('.active-destinations-carusel').owlCarousel({
+            items: 3,
+            loop: true,
+            margin: 30,
+            dots: true,                        
+            autoplay: true,
+            autoplaySpeed: 800,    
+            responsive: {
+                0: {
+                    items: 1
+                },
+                480: {
+                    items: 1,
+                },
+                768: {
+                    items: 3,
+                },
+                961: {
+                    items: 4,
                 }
             }
         }); 

@@ -12,7 +12,7 @@
 							<div class="header-social">
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
 								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
-                                <a class="btn btn-info" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
+                                <a class="btn btn-danger" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
                                 <i class="fa fa-shopping-cart"></i> 
                                 <?=MY_CART?>
                             </a>
