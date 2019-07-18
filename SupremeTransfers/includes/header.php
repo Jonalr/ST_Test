@@ -12,7 +12,7 @@
 							<div class="header-social">
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
 								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
-                                <a class="btn btn-info" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
+                                <a class="btn btn-danger" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
                                 <i class="fa fa-shopping-cart"></i> 
                                 <?=MY_CART?>
                             </a>
@@ -24,7 +24,7 @@
 				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img class="img"src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
+				        <a href="index.php"><img src="img/logoTemporal.png" style="width: 220px; height: 65px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">

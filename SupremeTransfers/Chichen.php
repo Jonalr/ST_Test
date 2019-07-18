@@ -57,7 +57,7 @@
 			<div class="container" style="padding: 20px;">
 				<div class="row fullscreen align-items-center float-left">
 					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
-						<div style="width: 350px; height: 400px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+						<div style="width: 350px; height: 400px; background-color: #11245f;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
 							<form class="form-wrap">
 								<h3 style="color: white">Tours</h3><br>
 								<input tvype="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									

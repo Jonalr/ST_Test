@@ -8,7 +8,7 @@ Idioma: English
 define ('MENU_HOME','Home');
 define ('MENU_ABOUT','About Us');
 define ('MENU_DEST','Destinations');
-define ('MENU_TRANS','Trasfers');
+define ('MENU_TRANS','Transfers');
 define ('MENU_TOUR', 'Tours');
 define ('MENU_GROUP','Groups');
 define ('MENU_AGEN', 'Agencies');

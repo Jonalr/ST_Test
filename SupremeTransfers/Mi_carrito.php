@@ -43,50 +43,7 @@
 }
 </style>
 		<body>	
-			<header id="header">
-				<div class="header-top">
-					<div class="container">
-					  <div class="row align-items-center">
-						  <div class="col-lg-6 col-sm-6 col-6 header-top-left">
-							  <ul>
-								<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
-							
-							  </ul>			
-						  </div>
-						  <div class="col-lg-6 col-sm-6 col-6 header-top-right">
-							<div class="header-social">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-                            <a class="btn btn-info" href="#" style="height: 30px; font-size: 12px;">
-                                <i class="fa fa-shopping-cart"></i> 
-                                Mi carrito
-                            </a>
-							</div>
-						  </div>
-					  </div>			  					
-					</div>
-				</div>
-				<div class="main-menu">
-					<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.php"><img src="img/LogoST.png" style="width: 125px; height: 65px;" title="" /></a>
-				      </div>
-					  <nav id="nav-menu-container">
-						<ul class="nav-menu">
-						<li><a href="index.php">Inicio</a></li>
-				          <li><a href="about.php">Acerca de</a></li>
-						  <li><a href="destinations.php">Destinos</a></li>
-						  <li><a href="transfers.php">Traslados</a></li>
-						  <li><a href="tours.php">Tours</a></li>	
-						  <li><a href="groups.php">Grupos</a></li>
-				          <li><a href="agencias.php">Agencias</a></li>
-				          <li><a href="blog.php">Blog</a></li>	          					          		          
-				          <li><a href="contact.php">Contact</a></li>
-						</ul>
-					  </nav>					      		  
-					</div>
-				</div>
-			</header>
+		<?php include 'includes/header.php' ?>
   
 			<section class="container section-gap">			
                 <h2 style="color: black; text-align: center; padding: 20px;"> <img src="img/shop2.png" style="width:120px; height:80px;">Mi carrito de compras</h2> 		
