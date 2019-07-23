@@ -649,6 +649,9 @@ th {
 .section-full {
 	padding: 100px 0;
 }
+.section-top{
+	padding: 30px 0 0 0;
+}
 
 .section-half {
 	padding: 75px 0;
@@ -2678,6 +2681,64 @@ body.mobile-nav-active #mobile-nav-toggle {
 		padding-bottom: 50px;
 	}
 }
+/*AQUI EMPIEZA BANNER CENTER*/
+.banner-center .nav-tabs {
+	border-bottom: none;
+}
+
+.banner-center .nav-item {
+	background: rgba(255, 255, 255, 0.25);
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 13px;
+	margin-right: 1px;
+}
+
+.banner-center .nav-item a {
+	color: #ffffff;
+}
+
+.banner-center .nav-item:hover a {
+	border-color: transparent !important;
+}
+
+.banner-center .nav-tabs .nav-link {
+	border-radius: 0 !important;
+}
+
+.banner-center .tab-content {
+	background: rgb(255, 255, 255);
+}
+
+.banner-center .form-wrap {
+	padding: 30px 30px;
+	text-align: center;
+}
+
+.banner-center .form-wrap .form-control {
+	padding: 0.4rem 0.75rem;
+	font-size: 12px;
+	font-weight: 700;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border-color: rgb(255, 255, 255);
+}
+
+.banner-center .form-wrap .form-control:focus {
+	box-shadow: none;
+}
+
+@media (max-width: 1024px) {
+	.banner-center {
+		margin-top: 40px;
+	}
+}
+
+@media (max-width: 767px) {
+	.banner-center {
+		padding-bottom: 50px;
+	}
+}
 
 /*-------- End Banner Area ------------*/
 /*-------- start Popular-destination Area ------------*/
@@ -3237,7 +3298,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	transform: translate(-50%, -50%);
 }
 
-/*-------- start hot-deal Style  -------------*/
+/*-------- end hot-deal Style  -------------*/
 /*-------- start destinations-area Style  -------------*/
 .destinations-area {
 	background: #f9f9ff;
@@ -3601,7 +3662,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	display: block;
 	padding: 0.5rem 0.75rem;
 	margin-left: -1px;
-	line-height: 1.25;
+	line-height: 2.25;
 	color: #777777;
 	border: none;
 }

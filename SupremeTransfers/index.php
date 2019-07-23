@@ -41,7 +41,7 @@
 			<section class="banner-area relative">
 				<div class="overlay overlay-bg"></div>				
 				<div class="container">
-					<div class="row fullscreen align-items-center justify-content-between">
+					<div class="row fullscreen align-items-center justify-content-between" style="padding: 15% 0">
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6 class="text-white">Away from your routines</h6>
 							<h1 class="text-white">Supreme Transfers</h1>
@@ -51,7 +51,7 @@
 							<a href="#" class="primary-btn text-uppercase">Get Started</a>
 						</div>
 						
-						<div class="col-lg-4 col-md-6 banner-right">
+						<div class="col-lg-4 col-md-6 banner-center">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 
 							 <li class="nav-item">
@@ -77,7 +77,7 @@
 									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#ac122a'" onMouseout="this.style.background='#ac122a'">Get prices</a>									
 								</form>
 							  </div>
-							  <div style="background-color: #11245f;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
+							  <div style="background-color: #13235B;" class="tab-pane fade show active" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
 							 
 								<form class="form-wrap">
 								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
@@ -86,7 +86,7 @@
 									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="dddsfdf " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Cfsdsdfdsf '">						
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Childs '">						
 									<a style="background-color: #ac162c" href="#" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
 								</form>							  	
 							  </div>

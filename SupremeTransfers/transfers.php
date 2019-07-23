@@ -44,62 +44,46 @@
 							<h1 class="text-white">
 								Transfers				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.php">Inicio </a>  <span class="lnr lnr-arrow-right"></span>  <a href="transfers.php"> Traslados</a></p>
+							<p class="text-white link-nav"><a href="index.php">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="transfers.php"> Transfers</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
-			<style>
-			.section-top{
-				padding: 55px 0 0 0;
-			}
-			</style>
-			<!-- start reserv Area -->		
-			<div class="container section-top">
-				<div class="row fullscreen align-items-center float-right">
+			<!--Start reservation-->
+			<section class="section-top">
+			<div class="container" style="padding: 0 0 0 10px">
 					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
-							<!--<ul class="nav nav-tabs" id="myTab" role="tablist">
-							  <li class="nav-item">
-							    <a style="background-color: #003464" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="true" >Tours</a>
-							  </li>
-							</ul>-->
-							<div class="tab-content" id="myTabContent" style="padding: 15% 0 0 0;">
-							  <div style="width: 350px; height: 372px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
-							  <form class="form-wrap">
-								<h4 style="color: white;">Transfers</h4><br>
-									<input type="text" class="form-control" name="Hotel" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
+						<div class="tab-content" id="myTabContent" style="padding: 0 0 0 15px; float: right;">
+							<div style="width: 350px; height: 372px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">		
+							<form class="form-wrap">
+								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
+									<input type="text" class="form-control" name="<?=MY_CART?>" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
 									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">						
-									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
-								</form>	
-							  </div>
-							</div>	
-							<div class="text-center ">
-								<h1>Can we help you?</h1>
-								<p>You can call to 888 888!</p>
-								<img src="img/help.jpg" alt="">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Childs '">						
+									<a style="background-color: #ac162c" href="#" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
+								</form>		
 							</div>
-						</div>
-					</div>		
+						</div>	
+					</div>
 				</div>
-
-			<!-- End reserv Area -->
-		
+				<div class="container">
+					<div class="justify-content-left" >
+			 			<div class="text-justify">
+							<h1 class="text-center"><?=TITLE_TRANSFERS?></h1>
+							<p><?=INFO_TRANSFERS?></p>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!--END reservation..-->
 			<!-- Start hot-deal Area -->
 			<section class="hot-deal-area ">
 				<div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-12">
-		                    <div class="title text-justify">
-		                        <h1 class="mb-10"><?=TITLE_TRANSFERS?></h1>
-		                        <p><?=INFO_TRANSFERS?></p>
-		                    </div>
-		                </div>
-		            </div>						
+		          						
 					<div class="row justify-content-center">
 						<div class="col-lg-10 active-hot-deal-carusel">
 							<div class="single-carusel">
@@ -144,7 +128,7 @@
 				</div>	
 			</section>
 			<!-- End hot-deal Area -->
-			<div class="alert alert-primary" role="alert">
+			<div class="alert alert-primary mr-20 ml-20" role="alert">
 				Nuestros vehiculos cuentan con la opción de llevar un asiento especial, para bebé o de otro tipo, sin costo adicional.
 				Sólo debe solicitarlo al staff de reservaciones después de realizar su reservación.
 			</div>
