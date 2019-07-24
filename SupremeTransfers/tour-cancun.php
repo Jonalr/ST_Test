@@ -51,98 +51,47 @@
 			</section>
 			<!-- End banner Area -->	
 			
-				<!-- Start motor Area -->	
-				<div class="container">
-					<div class="row fullscreen align-items-center justify-content-between">
-						<div class="col-lg-6 col-md-6 banner-left text-justify">
-						<h2 class="text-center">Cancun details</h2>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
-								
-								<br><br>
-								<h5>Life that is becoming extremely fastlive</h5>
-								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure error quas ipsa laborum est pariatur dolore quaerat animi provident nobis exercitationem eaque nihil facere sapiente laudantium fugiat soluta, omnis nam.</p>
-							
-								live in We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								</p>
-							
-						</div>
-						
-						<div class="col-lg-4 col-md-6 banner-right">
-							<div class="tab-content" id="myTabContent">
-								<div style="width: 350px; height: 400px; background-color: #003470; box-shadow: 5px 5px 15px 5px; border-radius: 15px;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
-									<form class="form-wrap">
-										<h3 style="color: white">Tours</h3><br>
-										<input tvype="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
-										<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
-										<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
-										<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-										<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-										<a style="margin-bottom: 10px; background-color: #00b2f865; border-radius: 5px;" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
-									</form>				
-								</div>	
-							 </div>
-						</div>
-					</div>
-				
-				</div>
-	
-			<!--<div class="container" style="padding: 20px;">
-				<div class="row fullscreen  align-items-center">
-					<div class="col-lg-6 col-md-6 banner-right">
-							<h6 class="text-black">Away from your routines</h6>
-							
-							<p class="text-black">
-								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
-							</p>
-						<div style="width: 350px; height: 400px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
-							<form class="form-wrap">
-								<h3 style="color: white">Tours</h3><br>
-								<input tvype="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
-								<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
-								<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
-								<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-								<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-								<a style="margin-bottom: 10px; background-color: #00b2f865; border-radius: 5px;" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
-							</form>				
+			
+			<section class="section-top">
+				<div class="container" style="padding: 0 0 0 10px">
+					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
+						<div class="tab-content" id="myTabContent" style="padding: 0 0 0 15px; float: right;">
+						<h3 class="text-center" style="color: #009bf5">Reserve now!</h3>
+							<div style="width: 350px; height: 372px; background-color: #003464; border-radius: 15px;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">		
+								<form class="form-wrap">
+									<h3 style="color: white">Tours</h3><br>
+									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
+									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
+									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
+									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
+									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
+									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Add to cart</a>									
+								</form>	
+							</div>
 						</div>	
 					</div>
-				</div>		
-			</div>
-			</div>-->
-		
-			<!-- End motor Area -->
-			
-			<!--<section class="hot-deal-area" style="padding:20px;">
+				</div>
 				<div class="container">
-		            <div class="row d-flex">
-		                <div class="menu-content pb-70 col-lg-12">
-		                    <div class="title text-justify">
-		                        <h1 class="mb-6">Cancun details</h1>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
-								We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-								live in.
-								<br><br>
-								<h5>Life that is becoming extremely fastlive</h5>
-								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure error quas ipsa laborum est pariatur dolore quaerat animi provident nobis exercitationem eaque nihil facere sapiente laudantium fugiat soluta, omnis nam.</p>
-							
-								live in We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
+					<div class="justify-content-left" >
+			 			<div class="text-justify">
+							<h1 class="text-center">This is information about interior tour</h1>
+							<p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
+							live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
+							live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
 							</p>
-		                    </div>
-		                </div>
-		            </div>		
+							<h2>Lorem ipsum dolor sit amet</h2>
+							<p>Lorem ipsum dolor  consectetur adipisicing elit. Sit voluptatem rerum reiciendis qui exercitationem nulla ut? Optio id, est nihil nobis sed possimus, quod minima libero rem, tenetur corrupti ab! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto sunt doloremque nostrum voluptatibus assumenda maxime, aliquam, placeat provident temporibus veritatis earum, deserunt excepturi unde nam velit omnis atque! Ullam, consequatur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque repudiandae voluptates totam quibusdam possimus recusandae, ipsa dolore vero magnam fugiat necessitatibus ab vel explicabo quam delectus itaque consectetur reiciendis alias? Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, necessitatibus! Odio, modi tenetur vel accusamus esse natus porro dignissimos quam, saepe eveniet, reiciendis culpa aliquid quidem illo illum corrupti consequatur.</p>
+						
+						</div>
+					</div>
 				</div>	
-			</section>-->
-			
+			</section>
+			<!--END reservation..-->
+
 			
 			<!--Banner de interior de tour-->
 			
-				<div class="container" style="text-align: center; padding: 70px 0 0 0;">
+				<div class="container section-top" style="text-align: center; ">
 				<div class="tab-content" id="myTabContent">
 				<h1>Galeria de (Este tour)</h1>			
 					<div class="row d-flex justify-content-center">
@@ -178,7 +127,7 @@
              </div><br>
              <div class="row d-flex justify-content-center" >
 				 <div class="col-sm-6 col-md-3 rounded text-center" 
-				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)" onMouseover="this.style.background='linear-gradient(135deg, #7df0f8, #00869e)'" onMouseout="this.style.background=' linear-gradient(135deg, #c0f9fd, #00bcdd)'">
+				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)">
                      <h3 style="height: 10px">Recomendación</h3><br>
                      <p>Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
 					 Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
@@ -191,7 +140,7 @@
 					</p>
                  </div>
 				 <div class="col-sm-6 col-md-3 rounded text-center" 
-				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)" onMouseover="this.style.background='linear-gradient(135deg, #7df0f8, #00869e)'" onMouseout="this.style.background=' linear-gradient(135deg, #c0f9fd, #00bcdd)'">
+				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)">
 					 <h3>Incluye</h3><br>
                      <p>Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
 					 Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
@@ -204,7 +153,7 @@
 					</p>
                  </div>
 				 <div class="col-sm-6 col-md-3 rounded text-center" 
-				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)" onMouseover="this.style.background='linear-gradient(135deg, #7df0f8, #00869e)'" onMouseout="this.style.background=' linear-gradient(135deg, #c0f9fd, #00bcdd)'">
+				 style="box-shadow: 0px 0px 10px #666666; height: 500px; margin-bottom:10px; margin-left: 20px; color: black; background: linear-gradient(135deg, #c0f9fd, #00bcdd)">
                      <h3>Tips</h3><br>
                      <p>Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
 					 Estoy recomendando actividades, servicios, mencionando los articulos o bebidas que incluye este tour etceteras.
