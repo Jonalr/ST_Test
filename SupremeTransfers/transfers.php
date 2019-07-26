@@ -255,5 +255,6 @@
 			<script src="js/owl.carousel.min.js"></script>							
 			<script src="js/mail-script.js"></script>	
 			<script src="js/main.js"></script>	
+			<script src="//api.supremetransfers.btransfer.mx/widgets/booking.js"></script>	
 		</body>
 	</html>
