@@ -64,7 +64,7 @@
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Childs '">						
-									<a style="background-color: #ac162c" href="#" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
+									<a style="background-color: #ac162c" href="https://supremetransfers.btransfer.mx" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
 								</form>		
 							</div>
 						</div>	

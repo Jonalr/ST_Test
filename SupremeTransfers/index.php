@@ -48,10 +48,10 @@
 							<p class="text-white">
 								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
 							</p>
-							<a href="#" class="primary-btn text-uppercase">Get Started</a>
+							<a href="https://supremetransfers.btransfer.mx" class="primary-btn text-uppercase">Get Started</a>
 						</div>
 						
-						<div class="col-lg-4 col-md-6 banner-center">
+						<!--<div class="col-lg-4 col-md-6 banner-center">
 							<ul class="nav nav-tabs" id="myTab" role="tablist">
 
 							 <li class="nav-item">
@@ -71,7 +71,7 @@
 									<input type="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
 									<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
 									<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
-								<!--<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">-->
+									<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
 									<a style="background-color: #00b2f865" href="#" class="primary-btn" onMouseover="this.style.background='#ac122a'" onMouseout="this.style.background='#ac122a'">Get prices</a>									
@@ -83,16 +83,16 @@
 								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
 									<input type="text" class="form-control" name="<?=MY_CART?>" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
-									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
+									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Childs '">						
-									<a style="background-color: #ac162c" href="#" class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'">Get prices</a>									
+									<a style="background-color: #ac162c"  class="primary-btn" onMouseover="this.style.background='#d82f48'" onMouseout="this.style.background='#ac162c'" href="https://supremetransfers.btransfer.mx">Get prices</a>								
 								</form>							  	
 							  </div>
 							
-							</div>
-						</div>
+							</div>	
+						</div>-->
 					</div>
 				</div>					
 			</section>
@@ -508,6 +508,8 @@
 			<script src="js/jquery.nice-select.min.js"></script>					
 			<script src="js/owl.carousel.min.js"></script>							
 			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+			<script src="js/main.js"></script>
+
+			<script src="//api.supremetransfers.btransfer.mx/widgets/booking.js"></script>	
 		</body>
 	</html>
