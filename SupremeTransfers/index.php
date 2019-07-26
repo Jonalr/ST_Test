@@ -5,7 +5,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="img/Favic.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -15,7 +15,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Travel</title>
+		<title>Super Transfers Cancun - Home</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -44,11 +44,11 @@
 					<div class="row fullscreen align-items-center justify-content-between" style="padding: 15% 0">
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6 class="text-white">Away from your routines</h6>
-							<h1 class="text-white">Supreme Transfers</h1>
+							<h1 class="text-white">Super Transfers Cancun</h1>
 							<p class="text-white">
 								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
 							</p>
-							<a href="https://supremetransfers.btransfer.mx" class="primary-btn text-uppercase">Get Started</a>
+							<a href="https://supremetransfers.btransfer.mx" class="primary-btn text-uppercase">BOOK</a>
 						</div>
 						
 						<!--<div class="col-lg-4 col-md-6 banner-center">
@@ -57,7 +57,7 @@
 							 <li class="nav-item">
 							    <a  style="background-color: #646569" onMouseover="this.style.background='rgb(167, 167, 167)'" onMouseout="this.style.background='#646569'" class="nav-link" id="hotel-tab" data-toggle="tab" href="#hotel" role="tab" aria-controls="hotel" aria-selected="true">Transfers</a>
 							  </li>
-							  <li class="nav-item">
+							  <li class="nav-item">	
 							    <a style="background-color: #646569" onMouseover="this.style.background='rgb(167, 167, 167)'" onMouseout="this.style.background='#646569'" class="nav-link" id="flight-tab" data-toggle="tab" href="#flight" role="tab" aria-controls="flight" aria-selected="false">Tours</a>
 							  </li>
 							</ul>

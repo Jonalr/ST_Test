@@ -1,0 +1,5 @@
+Version 7.0.8.x
+
+Changes:
+
+* Change: Use encodeURIComponent for PassThru data instead of proprietary Base64URLEncoding. All passthru codes must be updated if you are updating from 7.0.7.x or older, please note the related FAQ entry: https://www.livezilla.net/faq/en/?fid=passthrudata

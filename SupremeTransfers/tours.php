@@ -6,7 +6,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="img/Favic.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -16,7 +16,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Tours</title>
+		<title>Super Transfers Cancun - Tours</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -209,7 +209,7 @@
 						<div class="col-lg-3 col-md-6">
 							<div class="single-other-issue">
 								<div class="thumb">
-									<img class="img-fluid" src="img/tours/mayanadventure.jpg" alt="">					
+									<img class="img-fluid" src="img/tours/MayanAdventure.jpg" alt="">					
 								</div>
 								<a href="mayan_adventure.php">
 									<h4>Mayan adveture</h4>

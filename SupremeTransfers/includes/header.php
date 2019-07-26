@@ -1,11 +1,12 @@
-<header id="header">
-<div class="header-top">
-					<div class="container">
+
+	<header id="header">
+		<div class="header-top">
+				<div class="container">
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
-			  					<li><a href="mailto:contact@traveluum.com">contact@traveluum.com</a></li>
-			  					<li><a href="#">+52(998) 217 2958 </a></li>
+			  					<li><a href="mailto:contact@traveluum.com">contact@supertransfers.com</a></li>
+			  					<li><a href="#">+52 1 998 217 6885 </a></li>
 			  				</ul>			
  			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
@@ -41,4 +42,4 @@
 				      </nav><!-- #nav-menu-container -->					      		  
 					</div>
 			</div>
-</header>
+	</header>

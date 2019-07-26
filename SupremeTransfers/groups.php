@@ -6,7 +6,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="img/Favic.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -16,7 +16,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Grupos</title>
+		<title>Super Transfers Cancun - Groups</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -67,7 +67,7 @@
 						<div class="col-lg-4">
 							<div class="single-destinations">
 								<div class="thumb">
-									<img src="img/packages/cancun4.jpg" alt="">
+									<img src="img/packages/Cancun4.jpg" alt="">
 								</div>
 								<div class="details">
 									<h4>Cancún</h4>

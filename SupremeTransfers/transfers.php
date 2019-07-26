@@ -6,7 +6,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="img/Favic.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -16,7 +16,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Travel</title>
+		<title>Super Transfers Cancun - Transfers</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -91,7 +91,7 @@
 			<!-- End banner Area -->	
 			<!--Start reservation-->
 			<section class="section-top">
-			<div class="container" style="padding: 0 0 0 10px">
+			<!--<div class="container" style="padding: 0 0 0 10px">
 					<div class="col-lg-12 col-md-10 col-xs-6 banner-right">
 						<div class="tab-content" id="myTabContent" style="padding: 0 0 0 15px; float: right;">
 							<div style="width: 350px; height: 372px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">		
@@ -99,7 +99,7 @@
 								<h4 style="color: white;"><?=MOTOR_TRAN?></h4><br>
 									<input type="text" class="form-control" name="<?=MY_CART?>" placeholder="Hotel " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Hotel '">									
 									<input type="text" class="form-control" name="Type of tour" placeholder="Type of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type of tour'">
-									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">-->
+									<!--<input type="text" class="form-control date-picker" name="Tipo de viaje" placeholder="Tipo de viaje " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Tipo de viaje '">
 									<input type="text" class="form-control date-picker" name="Arrival date" placeholder="Arrival date " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Arrival date '">
 									<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 									<input type="number" min="0" max="10" class="form-control" name="child" placeholder="child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Childs '">						
@@ -108,7 +108,7 @@
 							</div>
 						</div>	
 					</div>
-				</div>
+				</div>-->
 				<div class="container">
 					<div class="justify-content-left" >
 			 			<div class="text-justify">
@@ -133,7 +133,7 @@
 									<p class="text-black text-center">
 									Motor L4 2.7L 16 válvulas DOHC VVT-i Dual, ETCS-i; Potencia 149 hp @ 4,800 rpm y torque 178 lb-ft @ 3,200 rpm</p>
 									<div class="text-center">
-									<button type="button" class="btn btn-info text-center" style="font-size: 12px; color: black;">Starting From</button>
+									<button href="https://supremetransfers.btransfer.mx" type="button" class="btn btn-info text-center" style="font-size: 12px; color: black;">Starting From</button>
 									</div>	
 								</div>											
 							</div>
@@ -145,7 +145,7 @@
 									<p class="text-black text-center">
 									Motor L4 2.7L 16 válvulas DOHC VVT-i Dual, ETCS-i; Potencia 149 hp @ 4,800 rpm y torque 178 lb-ft @ 3,200 rpm</p>
 									<div class="text-center">
-									<button type="button" class="btn btn-info text-center" style="font-size: 12px; color: black;">Starting From</button>
+									<button href="https://supremetransfers.btransfer.mx" type="button" class="btn btn-info text-center" style="font-size: 12px; color: black;">Starting From</button>
 									</div>
 								</div>
 								
