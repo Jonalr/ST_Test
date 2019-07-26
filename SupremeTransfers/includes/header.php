@@ -25,7 +25,7 @@
 				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><img src="img/logoTemporal.png" style="width: 185px; height: 65px;" title="" /></a>
+				        <a href="index.php"><img src="img/PNG_Mesa de trabajo 1.png" style="width: 155px; height: 75px;" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
