@@ -52,7 +52,10 @@
 			<!-- End banner Area -->	
 			
 				<!-- Start motor Area -->	
-				<div class="container">
+				<section class="section-top">
+
+				
+				<div class="container" style="padding: 0 0 0 10px;">
 					<div class="row fullscreen align-items-center justify-content-between">
 						<div class="col-lg-6 col-md-6 banner-left text-justify">
 						<h2 class="text-center">Cancun details</h2>
@@ -87,57 +90,9 @@
 					</div>
 				
 				</div>
+				</section>
 	
-			<!--<div class="container" style="padding: 20px;">
-				<div class="row fullscreen  align-items-center">
-					<div class="col-lg-6 col-md-6 banner-right">
-							<h6 class="text-black">Away from your routines</h6>
-							
-							<p class="text-black">
-								If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.
-							</p>
-						<div style="width: 350px; height: 400px; background-color: #003464;" class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
-							<form class="form-wrap">
-								<h3 style="color: white">Tours</h3><br>
-								<input tvype="text" class="form-control" name="Select Tour" placeholder="Select Tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Tour '">									
-								<input type="text" class="form-control" name="Select a Package" placeholder="Select a Package " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select a Package '">
-								<input type="text" class="form-control date-picker" name="Date of tour" placeholder="Date of tour " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Date of tour '">
-								<input type="number" min="1" max="10" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-								<input type="number" min="0" max="10" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">							
-								<a style="margin-bottom: 10px; background-color: #00b2f865; border-radius: 5px;" href="#" class="primary-btn" onMouseover="this.style.background='#009bf5'" onMouseout="this.style.background='#00669f'">Get prices</a>									
-							</form>				
-						</div>	
-					</div>
-				</div>		
-			</div>
-			</div>-->
 		
-			<!-- End motor Area -->
-			
-			<!--<section class="hot-deal-area" style="padding:20px;">
-				<div class="container">
-		            <div class="row d-flex">
-		                <div class="menu-content pb-70 col-lg-12">
-		                    <div class="title text-justify">
-		                        <h1 class="mb-6">Cancun details</h1>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast	
-								We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-								live in.
-								<br><br>
-								<h5>Life that is becoming extremely fastlive</h5>
-								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure error quas ipsa laborum est pariatur dolore quaerat animi provident nobis exercitationem eaque nihil facere sapiente laudantium fugiat soluta, omnis nam.</p>
-							
-								live in We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to. Jlive in an age that belongs to the young at heart. Life that is becoming extremely fast
-								live in an age that belongs to the young at heart. Life that is becoming extremely fastlive in an age that belongs to the young at heart. Life that is becoming extremely fast.
-							</p>
-		                    </div>
-		                </div>
-		            </div>		
-				</div>	
-			</section>-->
 			
 			
 			<!--Banner de interior de tour-->
