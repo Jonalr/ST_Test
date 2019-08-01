@@ -84,7 +84,7 @@
 									<span class="lnr lnr-envelope"></span>
 								</div>
 								<div class="contact-details">
-									<h5>support@supremetransfers.com</h5>
+									<h5>contact@super-transfers.com</h5>
 									<p>Send us your query anytime!</p>
 								</div>
 							</div>														
