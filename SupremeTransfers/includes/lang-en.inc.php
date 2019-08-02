@@ -22,7 +22,7 @@ define ('BANNER_AREA','Away from your routines');
 define ('POPULAR_DESTI','Popular destinations');
 define ('MOTOR_TOUR','Tours'); 
 define ('MOTOR_TRAN','Transfer');
-define ('','');
+define ('DESC_HOME','We are the connection between people with sustainable tourism alternatives developed by small entrepreneurs, civil associations and Mayan communities in protected natural areas, cultural heritage, theme parks and indigenous peoples for the preservation and conservation of the natural and cultural heritage of Mexico.');
 
 /* ABOUT US */
 define ('TITLE_ABOUT','Who we are?');
@@ -32,7 +32,6 @@ exercitation ullamco. focus on a range of items and features that we use in life
 Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco');
 
 /* AGENCIAS */
-
 /* CONTACT */
 
 /* TOURS */

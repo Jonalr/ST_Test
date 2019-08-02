@@ -1,4 +1,7 @@
 
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVLMNWX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<header id="header">
 		<div class="header-top">
 				<div class="container">
@@ -7,10 +10,20 @@
 			  				<ul>
 			  					<li><a href="mailto:contact@traveluum.com">contact@supertransfers.com</a></li>
 			  					<li><a href="#">+52 1 998 217 6885 </a></li>
-			  				</ul>			
+							  </ul>		
+							  	
  			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
-							<div class="header-social">
+						
+							<div class="header-social">	
+
+								<div class="flag" id="en">
+								<img class="img-responsive1" src="<?php echo $PATH; ?>img/flag-us.png" alt="English Version" > <span style="color: #ffffff;">ENG</span>
+								</div>
+								<div class="flag" id="es">
+								<img id="es" class="img-responsive1" src="<?php echo $PATH; ?>img/flag-mx.png" alt="Versión en Español"> <span style="color: #ffffff;">ESP</span>
+								</div>
+
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
 								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
                                 <a class="btn btn-danger" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
@@ -18,6 +31,7 @@
                                 <?=MY_CART?>
                             </a>
 							</div>
+							
 			  			</div>
 			  		</div>			  					
 					</div>

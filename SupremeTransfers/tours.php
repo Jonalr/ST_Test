@@ -422,206 +422,70 @@
 						</div>												
 					</div>
 				</div>
-			</section>
-			<!-- End price Area -->
-			<!-- Start other-issue Area 
-			<section class="other-issue-area section-gap">
+			</section>	
+
+		   <!-- CONTACT  -->
+		   <!-- Start contact-page Area -->
+			<section class="contact-page-area section-gap">
 				<div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-9">
-		                    <div class="title text-center">
-		                        <h1 class="mb-10">Other issues we can help you with</h1>
-		                        <p>We all live in an age that belongs to the young at heart. Life that is.</p>
-		                    </div>
-		                </div>
-		            </div>					
 					<div class="row">
-						<div class="col-lg-3 col-md-6">
-							<div class="single-other-issue">
-								<div class="thumb">
-									<img class="img-fluid" src="img/o1.jpg" alt="">					
+						
+						<div class="col-lg-4 d-flex flex-column address-wrap">
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-home"></span>
 								</div>
-								<a href="#">
-									<h4>Rent a Car</h4>
-								</a>
-								<p>
-									The preservation of human life is the ultimate value, a pillar of ethics and the foundation.
-								</p>
+								<div class="contact-details">
+									<h5>Cancún, Quintana Roo</h5>
+									<p>
+									Smza 59, Oficina 6, Av Lopez Portillo, Edificio Morelos, Benito Juárez, 77515,
+									<ul>Horas Laborables: 9:00AM - 9:00PM</ul>							 
+									</p>
+								</div>
 							</div>
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-phone-handset"></span>
+								</div>
+								<div class="contact-details">
+									<h5>Teléfono de Contacto: (+52)9987054953</h5>
+									<p>Días Laborales: Mon-Sun / Lun-Dom</p>
+								</div>
+							</div>
+							<div class="single-contact-address d-flex flex-row">
+								<div class="icon">
+									<span class="lnr lnr-envelope"></span>
+								</div>
+								<div class="contact-details">
+									<h5>support@supremetransfers.com</h5>
+									<p>Send us your query anytime!</p>
+								</div>
+							</div>														
 						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-other-issue">
-								<div class="thumb">
-									<img class="img-fluid" src="img/o2.jpg" alt="">					
+						<div class="col-lg-8">
+							<form class="form-area contact-form text-right" id="myForm" action="mail.php" method="post">
+								<div class="row">	
+									<div class="col-lg-6 form-group">
+										<input name="name" placeholder="Enter your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" class="common-input mb-20 form-control" required="" type="text">
+									
+										<input name="email" placeholder="Enter email address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" class="common-input mb-20 form-control" required="" type="email">
+
+										<input name="subject" placeholder="Enter subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter subject'" class="common-input mb-20 form-control" required="" type="text">
+									</div>
+									<div class="col-lg-6 form-group">
+										<textarea class="common-textarea form-control" name="message" placeholder="Enter Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Messege'" required=""></textarea>				
+									</div>
+									<div class="col-lg-12">
+										<div class="alert-msg" style="text-align: left;"></div>
+										<button class="genric-btn primary" style="float: right;">Send Message</button>											
+									</div>
 								</div>
-								<a href="#">
-									<h4>Cruise Booking</h4>
-								</a>
-								<p>
-									I was always somebody who felt quite sorry for myself, what I had not got compared.
-								</p>
-							</div>
+							</form>	
 						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-other-issue">
-								<div class="thumb">
-									<img class="img-fluid" src="img/o3.jpg" alt="">					
-								</div>
-								<a href="#">
-									<h4>To Do List</h4>
-								</a>
-								<p>
-									The following article covers a topic that has recently moved to center stage–at least it seems.
-								</p>
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-other-issue">
-								<div class="thumb">
-									<img class="img-fluid" src="img/o4.jpg" alt="">					
-								</div>
-								<a href="#">
-									<h4>Food Features</h4>
-								</a>
-								<p>
-									There are many kinds of narratives and organizing principles. Science is driven by evidence.
-								</p>
-							</div>
-						</div>																		
 					</div>
 				</div>	
 			</section>
-			<!-- End other-issue Area -->
-			
-
-			<!-- Start testimonial Area 
-		    <section class="testimonial-area section-gap">
-		        <div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-8">
-		                    <div class="title text-center">
-		                        <h1 class="mb-10">Testimonial from our Clients</h1>
-		                        <p>The French Revolution constituted for the conscience of the dominant aristocratic class a fall from </p>
-		                    </div>
-		                </div>
-		            </div>
-		            <div class="row">
-		                <div class="active-testimonial">
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>				
-									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>			
-									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>				
-									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>			
-									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
-		                            </p>
-		                            <h4>Harriet Maxwell</h4>
-	                            	<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>				
-									</div>	
-		                        </div>
-		                    </div>
-		                    <div class="single-testimonial item d-flex flex-row">
-		                        <div class="thumb">
-		                            <img class="img-fluid" src="img/elements/user2.png" alt="">
-		                        </div>
-		                        <div class="desc">
-		                            <p>
-		                                A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However.
-		                            </p>
-		                            <h4>Carolyn Craig</h4>
-	                           		<div class="star">
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star checked"></span>
-										<span class="fa fa-star"></span>
-										<span class="fa fa-star"></span>			
-									</div>	
-		                        </div>
-		                    </div>		                    		                    
-		                </div>
-		            </div>
-		        </div>
-		    </section>
-		    <!-- End testimonial Area -->
-
-			<!-- start footer Area -->		
+			<!-- End contact-page Area -->
 		
 			<?php include 'includes/footer.php' ?>
 
