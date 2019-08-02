@@ -105,12 +105,7 @@
 		                <div class="menu-content pb-70 col-lg-8">
 		                    <div class="title text-center">
 		                        <h1 class="mb-10"><?=POPULAR_DESTI?></h1>
-		                        <p> We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day. 
-									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day. 
-									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day.
-									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day.
-									We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day.
-								</p>
+		                        <p> <?=DESC_HOME?>	</p>
 		                    </div>
 		                </div>
 		            </div>						
@@ -512,15 +507,17 @@
 
 			<script src="//api.supremetransfers.btransfer.mx/widgets/booking.js"></script>	
 
-		<!-- PASS THRU DATA OBJECT -->
-<script type="text/javascript">
-var lz_data = {overwrite:false,language:'en'};
-</script>
-<!-- PASS THRU DATA OBJECT -->
+			<!-- PASS THRU DATA OBJECT -->
+			<script type="text/javascript">
+			var lz_data = {overwrite:false,language:'en'};
+			</script>
+			<!-- PASS THRU DATA OBJECT -->
 
-<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
-<script type="text/javascript" id="339deee055265d0eefe1aabf6367bd4a" src="http://supremetransfers.com/livezilla/script.php?id=339deee055265d0eefe1aabf6367bd4a"></script>
-<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
-			
+			<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+			<script type="text/javascript" id="339deee055265d0eefe1aabf6367bd4a"
+			src="http://supremetransfers.com/livezilla/script.php?id=339deee055265d0eefe1aabf6367bd4a">
+			</script>
+			<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+			<?php include 'includes/scripts.inc.php'; ?>
 		</body>
 	</html>
