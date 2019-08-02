@@ -2331,6 +2331,15 @@ h6 {
 		display: none;
 	}
 }
+.header-top .flag{
+    float: right;
+    width: 100px;
+    cursor: pointer;
+}
+.header-top .flag img{
+    width: 40px;
+}
+
 
 /* Mobile Nav Styling */
 #mobile-nav {
