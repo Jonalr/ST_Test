@@ -21,6 +21,8 @@ define ('BANNER_AREA','Lejos de tu rutina');
 define ('POPULAR_DESTI','Destinos populares');
 define ('MOTOR_TOUR','Excursión');
 define ('MOTOR_TRAN','Traslado');
+define ('DESC_HOME','Somos la conexión entre las personas con alternativas de turismo sustentable desarrolladas por pequeños empresarios, asociaciones civiles y comunidades mayas en áreas naturales protegidas, patrimonios culturales, parques temáticos y pueblos indígenas para la preservación y conservación del patrimonio natural y cultural de México.');
+
 /* ABOUT US */
 define ('TITLE_ABOUT','¿Quienes somos?');
 define ('INFO_ABOUT','Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, 
