@@ -26,9 +26,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
 								<a href="https://twitter.com/traveluum"><i class="fa fa-twitter"></i></a>
-                                <a class="btn btn-danger" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
+                                <!--<a class="btn btn-danger" href="././mi_carrito.php" style="height: 30px; font-size: 12px;">
                                 <i class="fa fa-shopping-cart"></i> 
-                                <?=MY_CART?>
+                                < ?=MY_CART?>-->
                             </a>
 							</div>
 							

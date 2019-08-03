@@ -518,6 +518,6 @@
 			src="http://supremetransfers.com/livezilla/script.php?id=339deee055265d0eefe1aabf6367bd4a">
 			</script>
 			<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
-			<?php include 'includes/scripts.inc.php'; ?>
+	
 		</body>
 	</html>
