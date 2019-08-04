@@ -18,10 +18,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="header-social">	
 
 								<div class="flag" id="en">
-								<img class="img-responsive1" src="<?php echo $PATH; ?>img/flag-us.png" alt="English Version" > <span style="color: #ffffff;">ENG</span>
+								<img id="en" class="img-responsive1" style="border-radius: 0px;" src="<?php echo $PATH; ?>img/flag-us.png" alt="English Version" > <span style="color: #ffffff;">ENG</span>
 								</div>
 								<div class="flag" id="es">
-								<img id="es" class="img-responsive1" src="<?php echo $PATH; ?>img/flag-mx.png" alt="Versión en Español"> <span style="color: #ffffff;">ESP</span>
+								<img  class="img-responsive1" style="border-radius: 0px;" src="<?php echo $PATH; ?>img/flag-mx.png" alt="Versión en Español"> <span style="color: #ffffff;">SPA</span>
 								</div>
 
 								<a href="https://www.facebook.com/traveluumagency/"><i class="fa fa-facebook"></i></a>
@@ -34,8 +34,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							
 			  			</div>
 			  		</div>			  					
-					</div>
 				</div>
+		</div>
 				<div class="main-menu">
 					<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">

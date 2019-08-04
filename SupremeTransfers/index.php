@@ -6,8 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
 		<link rel="shortcut icon" href="img/Favic.png">
-		<!-- Author Meta -->
-		<meta name="author" content="colorlib">
+		
 		<!-- Meta Description -->
 		<meta name="description" content="">
 		<!-- Meta Keyword -->
@@ -518,6 +517,6 @@
 			src="http://supremetransfers.com/livezilla/script.php?id=339deee055265d0eefe1aabf6367bd4a">
 			</script>
 			<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
-	
+			<!-- < ?php include 'includes/scripts.inc.php'; ? >-->
 		</body>
 	</html>
